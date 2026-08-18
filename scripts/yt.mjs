@@ -463,10 +463,13 @@ async function main() {
         }
       : null;
     if (ov && team) {
-      team.status = "edited";
-      if (Array.isArray(ov.players) && ov.players.length) team.players = ov.players;
-      if (ov.captain) team.captain = ov.captain;
-      if (ov.notes) team.notes = ov.notes;
+      const overrideFresh = ov.publishedAt && new Date(ov.publishedAt).getTime() >= new Date(team.publishedAt).getTime();
+      if (overrideFresh || (!ov.publishedAt && Array.isArray(ov.players) && ov.players.length)) {
+        team.status = "edited";
+        if (Array.isArray(ov.players) && ov.players.length) team.players = ov.players;
+        if (ov.captain) team.captain = ov.captain;
+        if (ov.notes) team.notes = ov.notes;
+      }
     }
     byId.set(ch.id, {
       id: ch.id,
