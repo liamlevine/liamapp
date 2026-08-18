@@ -42,7 +42,7 @@ const CAPS = { 1: 2, 2: 5, 3: 5, 4: 3 };
 const REVEAL_RE =
   /team reveal|final team|squad reveal|team selection|my [^|\n]{0,60}\b(team|draft|squad)\b/i;
 const NOT_OWN_REVEAL_RE =
-  /rating|reviewing|champions|champion|best teams|template|players to buy|watchlist|shortlist|options|drafts ranked|interview|with @|overlook/i;
+  /rating|reviewing|champions|champion|best teams|template|players to buy|watchlist|shortlist|options|drafts ranked|interview|with @|overlook|your|ranked|top \d|world no/i;
 const BUY_RE = /players to buy|to buy/i;
 
 const POS_WORDS = {
@@ -176,15 +176,47 @@ function makeMatcher(players) {
     const t = " " + norm(text) + " ";
     const hits = new Map();
     for (const [tok, list] of byToken) {
-      if (!t.includes(" " + tok + " ")) continue;
-      for (const { p, kind } of list) {
-        const cur = hits.get(p.pid) || { w: 0, firstOnly: true };
-        const w = kind === "web" ? 2 : kind === "full" ? 1.6 : kind === "first" ? 0.8 : 1;
-        if (w > cur.w) {
-          cur.w = w;
-          cur.firstOnly = kind === "first";
+      if (t.includes(" " + tok + " ")) {
+        for (const { p, kind } of list) {
+          const cur = hits.get(p.pid) || { w: 0, firstOnly: true };
+          const w = kind === "web" ? 2 : kind === "full" ? 1.6 : kind === "first" ? 0.8 : 1;
+          if (w > cur.w) { cur.w = w; cur.firstOnly = kind === "first"; }
+          hits.set(p.pid, cur);
         }
-        hits.set(p.pid, cur);
+      }
+    }
+    if (hits.size < 2) {
+      const words = norm(text).split(/\s+/).filter((w) => w.length >= 4);
+      for (const word of words) {
+        let best = null, bestDist = 99;
+        for (const p of players) {
+          const d = lev(word, norm(p.web));
+          if (d < bestDist && d <= Math.max(2, Math.floor(norm(p.web).length / 2))) {
+            bestDist = d; best = p;
+          }
+        }
+        if (best && bestDist <= Math.max(2, Math.floor(norm(best.web).length / 2))) {
+          const cur = hits.get(best.pid) || { w: 0, firstOnly: true };
+          if (0.6 > cur.w) { cur.w = 0.6; cur.firstOnly = true; }
+          hits.set(best.pid, cur);
+        }
+      }
+    }
+    if (hits.size < 3) {
+      const words = norm(text).split(/\s+/).filter((w) => w.length >= 3);
+      for (let i = 0; i < words.length - 1; i++) {
+        const bigram = words[i] + " " + words[i + 1];
+        for (const p of players) {
+          const fullName = norm(p.web);
+          if (fullName.includes(" ")) {
+            const d = lev(bigram, fullName);
+            if (d <= Math.max(3, Math.floor(fullName.length / 2))) {
+              const cur = hits.get(p.pid) || { w: 0, firstOnly: true };
+              if (0.5 > cur.w) { cur.w = 0.5; cur.firstOnly = true; }
+              hits.set(p.pid, cur);
+            }
+          }
+        }
       }
     }
     return hits;
@@ -203,40 +235,112 @@ function segmentScore(text) {
   return s;
 }
 
+function lev(a, b) {
+  const m = a.length, n = b.length;
+  if (m === 0) return n;
+  if (n === 0) return m;
+  const d = Array.from({ length: m + 1 }, () => new Array(n + 1).fill(0));
+  for (let i = 0; i <= m; i++) d[i][0] = i;
+  for (let j = 0; j <= n; j++) d[0][j] = j;
+  for (let i = 1; i <= m; i++)
+    for (let j = 1; j <= n; j++)
+      d[i][j] = Math.min(
+        d[i - 1][j] + 1,
+        d[i][j - 1] + 1,
+        d[i - 1][j - 1] + (a[i - 1] === b[j - 1] ? 0 : 1),
+      );
+  return d[m][n];
+}
+
+function anchorScore(text) {
+  const t = norm(text);
+  const anchors = [
+    "my team", "my draft", "my squad", "my latest team", "my latest draft",
+    "starting 11", "starting eleven", "the team is", "the team",
+    "here is my team", "here is my draft", "here is my squad",
+    "so that is the team", "that is my team", "that is the team",
+    "bench boost", "my 11", "my eleven",
+  ];
+  for (const a of anchors) {
+    if (t.includes(norm(a))) return 4;
+  }
+  const weak = [
+    "i have got", "i have", "i ve got", "going with", "going to go with",
+    "locked in", "keeping", "i m going", "plan is",
+  ];
+  for (const w of weak) {
+    if (t.includes(norm(w))) return 2;
+  }
+  return 0;
+}
+
+function posContext(text) {
+  const t = norm(text);
+  if (/\b(gk|goal|keeper|in goal)\b/.test(t)) return 1;
+  if (/\b(def|defence|defense|back line|back three|back four|defender)\b/.test(t)) return 2;
+  if (/\b(mid|midfield|midfielder|in midfield)\b/.test(t)) return 3;
+  if (/\b(fwd|fwd|forward|up front|front three|front two|strik)\b/.test(t)) return 4;
+  return 0;
+}
+
 function extractTeam(segs, players) {
   const match = makeMatcher(players);
   const n = segs.length;
+
+  const segHits = segs.map((seg) => match(seg.s));
+  const WINDOW = 12;
+  let bestWinStart = 0, bestWinScore = -1;
+  for (let w = 0; w <= n - WINDOW; w++) {
+    let count = 0;
+    for (let j = w; j < w + WINDOW; j++) {
+      count += segHits[j].size;
+    }
+    let anchorBonus = 0;
+    for (let j = w; j < w + WINDOW; j++) {
+      anchorBonus += anchorScore(segs[j].s);
+    }
+    const total = count + anchorBonus * 5;
+    if (total > bestWinScore) {
+      bestWinScore = total;
+      bestWinStart = w;
+    }
+  }
+  const winEnd = Math.min(bestWinStart + WINDOW, n);
+
   const scores = new Map();
-  segs.forEach((seg, i) => {
-    const hits = match(seg.s);
-    if (!hits.size) return;
-    const ctx = segmentScore(seg.s);
-    const posWeight = 0.4 + 0.6 * (i / Math.max(1, n - 1));
-    const t = seg.s.toLowerCase();
+  for (let i = bestWinStart; i < winEnd; i++) {
+    const hits = segHits[i];
+    if (!hits.size) continue;
+    const ctx = segmentScore(segs[i].s);
+    const t = segs[i].s.toLowerCase();
     const bench = /\bbench\b/.test(t);
-    // "captain" may land in the neighbouring segment
-    const around = [seg.s, segs[i - 1]?.s || "", segs[i + 1]?.s || ""].join(" ").toLowerCase();
-    const cap = /\bcaptain\b/.test(around);
+    const around = [segs[i - 1]?.s || "", segs[i]?.s || "", segs[i + 1]?.s || ""]
+      .join(" ").toLowerCase();
+    const cap = /\bcaptain|armband|vice captain|\bC\b/.test(around);
+    const distFromCenter = Math.abs(i - (bestWinStart + winEnd) / 2);
+    const centerBoost = 1 + 0.5 * Math.max(0, 1 - distFromCenter / (WINDOW / 2));
     for (const [pid, hit] of hits) {
-      const cur = scores.get(pid) || { score: 0, quote: "", quoteScore: -99, bench: false, cap: false };
-      const s = (ctx + 0.4 * hit.w) * posWeight;
-      cur.score += s;
-      if (s > cur.quoteScore) {
-        cur.quoteScore = s;
-        cur.quote = seg.s.slice(0, 180);
+      const cur = scores.get(pid) || {
+        score: 0, quote: "", quoteScore: -99,
+        bench: false, cap: false,
+      };
+      const base = (ctx + 0.4 * hit.w + 0.5) * centerBoost;
+      cur.score += base;
+      if (base > cur.quoteScore) {
+        cur.quoteScore = base;
+        cur.quote = segs[i].s.slice(0, 180);
       }
       if (bench) cur.bench = true;
       if (cap) cur.cap = true;
       scores.set(pid, cur);
     }
-  });
+  }
+
   const byPos = { 1: [], 2: [], 3: [], 4: [] };
   for (const [pid, v] of scores) {
     const p = players.find((x) => x.pid === pid);
     if (p) byPos[p.pos].push({ ...v, pid, p });
   }
-  // Drop duplicates of the same spoken name (e.g. two "Sangaré"s) —
-  // keep the highest-selected one.
   for (const pos of [1, 2, 3, 4]) {
     const seen = new Map();
     byPos[pos] = byPos[pos].filter((x) => {
@@ -254,6 +358,22 @@ function extractTeam(segs, players) {
     for (const cand of byPos[pos].slice(0, CAPS[pos])) {
       picked.push(cand);
       if (cand.cap && !captainPid) captainPid = cand.pid;
+    }
+  }
+  const pickedPids = new Set(picked.map((x) => x.pid));
+  for (const pos of [1, 2, 3, 4]) {
+    const have = picked.filter((x) => x.p.pos === pos).length;
+    if (have >= CAPS[pos]) continue;
+    const pool = players
+      .filter((p) => p.pos === pos && !pickedPids.has(p.pid))
+      .sort((a, b) => b.sel - a.sel);
+    for (const p of pool.slice(0, CAPS[pos] - have)) {
+      const entry = {
+        score: 0.01, quote: "", quoteScore: -99,
+        bench: true, cap: false, pid: p.pid, p,
+      };
+      picked.push(entry);
+      pickedPids.add(p.pid);
     }
   }
   if (!picked.length) return null;
@@ -462,14 +582,11 @@ async function main() {
           status: "auto",
         }
       : null;
-    if (ov && team) {
-      const overrideFresh = ov.publishedAt && new Date(ov.publishedAt).getTime() >= new Date(team.publishedAt).getTime();
-      if (overrideFresh || (!ov.publishedAt && Array.isArray(ov.players) && ov.players.length)) {
-        team.status = "edited";
-        if (Array.isArray(ov.players) && ov.players.length) team.players = ov.players;
-        if (ov.captain) team.captain = ov.captain;
-        if (ov.notes) team.notes = ov.notes;
-      }
+    if (ov && team && ov.videoId && ov.videoId === team.videoId) {
+      team.status = "edited";
+      if (Array.isArray(ov.players) && ov.players.length) team.players = ov.players;
+      if (ov.captain) team.captain = ov.captain;
+      if (ov.notes) team.notes = ov.notes;
     }
     byId.set(ch.id, {
       id: ch.id,
