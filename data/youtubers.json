@@ -867,102 +867,66 @@
         "publishedAt": "2026-08-11T11:12:26+00:00",
         "players": [
           {
+            "pid": 1,
+            "name": "Raya",
+            "pos": 1,
+            "team": "ARS",
+            "quote": "be that Raya is the best keeper as well so imagine \nhaving to spend 6m and 4.5m on two keepers.",
+            "conf": 0.15,
+            "bench": false
+          },
+          {
             "pid": 109,
             "name": "Verbruggen",
             "pos": 1,
             "team": "BHA",
-            "quote": "Curated from the video (screen + transcript).",
-            "conf": 1,
+            "quote": "Sunderland and Ipswich on 25%. Verbruggen just \nbehind there on 23%. So granted, the clean sheet",
+            "conf": 0.15,
             "bench": false
           },
           {
-            "pid": 496,
-            "name": "Kinsky",
-            "pos": 1,
-            "team": "TOT",
-            "quote": "Curated from the video (screen + transcript).",
-            "conf": 1,
-            "bench": true
-          },
-          {
-            "pid": 469,
-            "name": "N.Williams",
+            "pid": 359,
+            "name": "Gomez",
             "pos": 2,
-            "team": "NFO",
-            "quote": "Curated from the video (screen + transcript).",
-            "conf": 1,
-            "bench": false
-          },
-          {
-            "pid": 418,
-            "name": "Maguire",
-            "pos": 2,
-            "team": "MUN",
-            "quote": "Curated from the video (screen + transcript).",
-            "conf": 1,
-            "bench": false
-          },
-          {
-            "pid": 11,
-            "name": "Mosquera",
-            "pos": 2,
-            "team": "ARS",
-            "quote": "Curated from the video (screen + transcript).",
-            "conf": 1,
-            "bench": false
-          },
-          {
-            "pid": 534,
-            "name": "Hume",
-            "pos": 2,
-            "team": "SUN",
-            "quote": "Curated from the video (screen + transcript).",
-            "conf": 1,
-            "bench": true
-          },
-          {
-            "pid": 304,
-            "name": "O'Shea",
-            "pos": 2,
-            "team": "IPS",
-            "quote": "Curated from the video (screen + transcript).",
-            "conf": 1,
-            "bench": true
-          },
-          {
-            "pid": 368,
-            "name": "Szoboszlai",
-            "pos": 3,
             "team": "LIV",
-            "quote": "Curated from the video (screen + transcript).",
+            "quote": "and Cozier-Duberry but I don't think either are \nquite PL ready to be starting games, so Gomez for",
             "conf": 1,
+            "bench": true
+          },
+          {
+            "pid": 173,
+            "name": "Thomas",
+            "pos": 2,
+            "team": "COV",
+            "quote": "better about it if he starts in their final \npre-season game. Amenda started over Thomas",
+            "conf": 0.34,
             "bench": false
           },
           {
-            "pid": 427,
-            "name": "Mbeumo",
-            "pos": 3,
-            "team": "MUN",
-            "quote": "Curated from the video (screen + transcript).",
-            "conf": 1,
+            "pid": 182,
+            "name": "Amenda",
+            "pos": 2,
+            "team": "COV",
+            "quote": "better about it if he starts in their final \npre-season game. Amenda started over Thomas",
+            "conf": 0.34,
             "bench": false
           },
           {
-            "pid": 426,
-            "name": "B.Fernandes",
-            "pos": 3,
-            "team": "MUN",
-            "quote": "Curated from the video (screen + transcript).",
-            "conf": 1,
+            "pid": 118,
+            "name": "Igor",
+            "pos": 2,
+            "team": "BHA",
+            "quote": "Haaland and Joao Pedro. Igor Jesus comes \nin to the team with Leeds home in GW1.",
+            "conf": 0.28,
             "bench": false
           },
           {
-            "pid": 237,
-            "name": "Ndiaye",
-            "pos": 3,
-            "team": "EVE",
-            "quote": "Curated from the video (screen + transcript).",
-            "conf": 1,
+            "pid": 391,
+            "name": "Gvardiol",
+            "pos": 2,
+            "team": "MCI",
+            "quote": "LCB. Man City did come out with that pillars \nof the team remark, Gvardiol, Foden, Haaland",
+            "conf": 0.24,
             "bench": false
           },
           {
@@ -970,17 +934,53 @@
             "name": "Gomez",
             "pos": 3,
             "team": "BHA",
-            "quote": "Curated from the video (screen + transcript).",
+            "quote": "and Cozier-Duberry but I don't think either are \nquite PL ready to be starting games, so Gomez for",
             "conf": 1,
             "bench": true
+          },
+          {
+            "pid": 237,
+            "name": "Ndiaye",
+            "pos": 3,
+            "team": "EVE",
+            "quote": "So those 2 have nudged me this way. I'm \nalso looking at swapping Ndiaye and Gomez",
+            "conf": 0.51,
+            "bench": false
+          },
+          {
+            "pid": 398,
+            "name": "Foden",
+            "pos": 3,
+            "team": "MCI",
+            "quote": "LCB. Man City did come out with that pillars \nof the team remark, Gvardiol, Foden, Haaland",
+            "conf": 0.31,
+            "bench": false
+          },
+          {
+            "pid": 397,
+            "name": "Semenyo",
+            "pos": 3,
+            "team": "MCI",
+            "quote": "games I'm finding him impossible to ignore now, \nbut really think Semenyo is a top pick. I wonder",
+            "conf": 0.29,
+            "bench": false
+          },
+          {
+            "pid": 212,
+            "name": "Hughes",
+            "pos": 3,
+            "team": "CRY",
+            "quote": "as early as GW2. I'll be doing everything I \ncan not to make a transfer in GW2, will have",
+            "conf": 0.22,
+            "bench": false
           },
           {
             "pid": 411,
             "name": "Haaland",
             "pos": 4,
             "team": "MCI",
-            "quote": "Curated from the video (screen + transcript).",
-            "conf": 1,
+            "quote": "Haaland and Joao Pedro. Igor Jesus comes \nin to the team with Leeds home in GW1.",
+            "conf": 0.6,
             "bench": false
           },
           {
@@ -988,8 +988,8 @@
             "name": "João Pedro",
             "pos": 4,
             "team": "CHE",
-            "quote": "Curated from the video (screen + transcript).",
-            "conf": 1,
+            "quote": "Haaland and Joao Pedro. Igor Jesus comes \nin to the team with Leeds home in GW1.",
+            "conf": 0.28,
             "bench": false
           },
           {
@@ -997,15 +997,14 @@
             "name": "Igor Jesus",
             "pos": 4,
             "team": "NFO",
-            "quote": "Curated from the video (screen + transcript).",
-            "conf": 1,
+            "quote": "Haaland and Joao Pedro. Igor Jesus comes \nin to the team with Leeds home in GW1.",
+            "conf": 0.28,
             "bench": false
           }
         ],
-        "captain": 411,
+        "captain": 359,
         "conf": 0.95,
-        "status": "edited",
-        "notes": "GW1 bench boost active. Bench: Kinsky, Hume, O'Shea, Gomez."
+        "status": "auto"
       },
       "revealOptions": [
         {
@@ -1603,44 +1602,26 @@
             "name": "Kinsky",
             "pos": 1,
             "team": "TOT",
-            "quote": "Curated from the video (screen + transcript).",
-            "conf": 1,
+            "quote": "for Defcon, but it's difficult to want a double up \nand if I'm going with any of them, I think Kinsky",
+            "conf": 0.24,
             "bench": false
           },
           {
-            "pid": 109,
-            "name": "Verbruggen",
+            "pid": 227,
+            "name": "Travers",
             "pos": 1,
-            "team": "BHA",
-            "quote": "Curated from the video (screen + transcript).",
-            "conf": 1,
-            "bench": true
+            "team": "EVE",
+            "quote": "both play left back. Then they've got Ruben Diaz, \nMark Gay and Vardial to be their first choice",
+            "conf": 0.08,
+            "bench": false
           },
           {
             "pid": 504,
             "name": "Vuskovic",
             "pos": 2,
             "team": "BHA",
-            "quote": "Curated from the video (screen + transcript).",
-            "conf": 1,
-            "bench": false
-          },
-          {
-            "pid": 8,
-            "name": "Calafiori",
-            "pos": 2,
-            "team": "ARS",
-            "quote": "Curated from the video (screen + transcript).",
-            "conf": 1,
-            "bench": false
-          },
-          {
-            "pid": 418,
-            "name": "Maguire",
-            "pos": 2,
-            "team": "MUN",
-            "quote": "Curated from the video (screen + transcript).",
-            "conf": 1,
+            "quote": "with Vuskovic and I've taken out Vardio. Now I \nthink there is a little bit of doubt in my mind",
+            "conf": 0.68,
             "bench": false
           },
           {
@@ -1648,35 +1629,35 @@
             "name": "Rodon",
             "pos": 2,
             "team": "LEE",
-            "quote": "Curated from the video (screen + transcript).",
-            "conf": 1,
-            "bench": true
-          },
-          {
-            "pid": 259,
-            "name": "Diop",
-            "pos": 2,
-            "team": "IPS",
-            "quote": "Curated from the video (screen + transcript).",
-            "conf": 1,
-            "bench": true
-          },
-          {
-            "pid": 427,
-            "name": "Mbeumo",
-            "pos": 3,
-            "team": "MUN",
-            "quote": "Curated from the video (screen + transcript).",
-            "conf": 1,
+            "quote": "I actually packed Joe Rodon, a player who is in my \ncurrent FPL draft. Quite a good pick. But this is",
+            "conf": 0.25,
             "bench": false
           },
           {
-            "pid": 366,
-            "name": "Wirtz",
-            "pos": 3,
-            "team": "LIV",
-            "quote": "Curated from the video (screen + transcript).",
-            "conf": 1,
+            "pid": 423,
+            "name": "Shaw",
+            "pos": 2,
+            "team": "MUN",
+            "quote": "the money over going for Luke Shaw because the \nattacking threat with Casemiro not in the team",
+            "conf": 0.25,
+            "bench": false
+          },
+          {
+            "pid": 502,
+            "name": "Robertson",
+            "pos": 2,
+            "team": "TOT",
+            "quote": "loads of goals and as a result defensively they \nwill have to be strong. Robertson at 4.5 at left",
+            "conf": 0.23,
+            "bench": false
+          },
+          {
+            "pid": 387,
+            "name": "O'Reilly",
+            "pos": 2,
+            "team": "MCI",
+            "quote": "about how nailed Vardial is in that Manchester \nCity team when they've got O'Reilly and Nate Nory",
+            "conf": 0.23,
             "bench": false
           },
           {
@@ -1684,44 +1665,44 @@
             "name": "B.Fernandes",
             "pos": 3,
             "team": "MUN",
-            "quote": "Curated from the video (screen + transcript).",
+            "quote": "don't look at this team and think I'm sacrificing \nin order to have Bruno and Harland and that's the",
             "conf": 1,
             "bench": false
           },
           {
-            "pid": 124,
-            "name": "Groß",
+            "pid": 263,
+            "name": "Kevin",
             "pos": 3,
-            "team": "BHA",
-            "quote": "Curated from the video (screen + transcript).",
-            "conf": 1,
-            "bench": false
-          },
-          {
-            "pid": 488,
-            "name": "Sangaré",
-            "pos": 3,
-            "team": "NFO",
-            "quote": "Curated from the video (screen + transcript).",
-            "conf": 1,
+            "team": "FUL",
+            "quote": "little bit. I would say I'm still 75% that I go \nwith the bench boost team. But if Kevin Sharder",
+            "conf": 0.74,
             "bench": true
           },
           {
-            "pid": 165,
-            "name": "João Pedro",
-            "pos": 4,
+            "pid": 212,
+            "name": "Hughes",
+            "pos": 3,
+            "team": "CRY",
+            "quote": "back is an interesting pick. You've got Van Hec in \ndefense at 5 million who I think will be fantastic",
+            "conf": 0.37,
+            "bench": true
+          },
+          {
+            "pid": 155,
+            "name": "Enzo",
+            "pos": 3,
             "team": "CHE",
-            "quote": "Curated from the video (screen + transcript).",
-            "conf": 1,
+            "quote": "I'm least settled. Bruno Fernandez is in now. \nHe's missed backto-back penalties. He only got an",
+            "conf": 0.2,
             "bench": false
           },
           {
-            "pid": 346,
-            "name": "Calvert-Lewin",
-            "pos": 4,
-            "team": "LEE",
-            "quote": "Curated from the video (screen + transcript).",
-            "conf": 1,
+            "pid": 366,
+            "name": "Wirtz",
+            "pos": 3,
+            "team": "LIV",
+            "quote": "as good a pick as he was means I just want to \ngo with Bruno. I've then got Florian Verz but",
+            "conf": 0.18,
             "bench": false
           },
           {
@@ -1729,15 +1710,32 @@
             "name": "Haaland",
             "pos": 4,
             "team": "MCI",
-            "quote": "Curated from the video (screen + transcript).",
-            "conf": 1,
+            "quote": "and I understand people wanting to drop Bruno or \ndrop Erling Harland, but I don't look at my team",
+            "conf": 0.38,
+            "bench": false
+          },
+          {
+            "pid": 552,
+            "name": "Brobbey",
+            "pos": 4,
+            "team": "SUN",
+            "quote": "to Arsenal, a team where not many of us have that \nmuch coverage in our team. Brian and Burmo didn't",
+            "conf": 0.26,
+            "bench": false
+          },
+          {
+            "pid": 106,
+            "name": "Thiago",
+            "pos": 4,
+            "team": "BRE",
+            "quote": "Thiago I think is pretty close and Semeno didn't \nlook particularly great in the Community Shield",
+            "conf": 0.25,
             "bench": false
           }
         ],
-        "captain": 411,
+        "captain": 426,
         "conf": 0.95,
-        "status": "edited",
-        "notes": "GW1 bench boost (75%). 3-4-3. Bench: Verbruggen, Rodon, Diop, Sangaré."
+        "status": "auto"
       },
       "revealOptions": [
         {
@@ -2351,48 +2349,21 @@
         "publishedAt": "2026-08-17T07:00:22+00:00",
         "players": [
           {
-            "pid": 109,
-            "name": "Verbruggen",
-            "pos": 1,
-            "team": "BHA",
-            "quote": "Curated from the video (screen + transcript).",
-            "conf": 1,
-            "bench": false
-          },
-          {
             "pid": 496,
             "name": "Kinsky",
             "pos": 1,
             "team": "TOT",
-            "quote": "Curated from the video (screen + transcript).",
-            "conf": 1,
+            "quote": "bench of Kinsky, Sangare, Rodon, and",
+            "conf": 0.09,
             "bench": true
           },
           {
-            "pid": 8,
-            "name": "Calafiori",
-            "pos": 2,
-            "team": "ARS",
-            "quote": "Curated from the video (screen + transcript).",
-            "conf": 1,
-            "bench": false
-          },
-          {
-            "pid": 532,
-            "name": "Ballard",
-            "pos": 2,
-            "team": "SUN",
-            "quote": "Curated from the video (screen + transcript).",
-            "conf": 1,
-            "bench": false
-          },
-          {
-            "pid": 418,
-            "name": "Maguire",
-            "pos": 2,
-            "team": "MUN",
-            "quote": "Curated from the video (screen + transcript).",
-            "conf": 1,
+            "pid": 110,
+            "name": "Rushworth",
+            "pos": 1,
+            "team": "COV",
+            "quote": "two, you've got like Rushworth,",
+            "conf": 0.08,
             "bench": false
           },
           {
@@ -2400,35 +2371,62 @@
             "name": "Rodon",
             "pos": 2,
             "team": "LEE",
-            "quote": "Curated from the video (screen + transcript).",
+            "quote": "in gameweek four, also Rodon's got",
             "conf": 1,
             "bench": true
+          },
+          {
+            "pid": 532,
+            "name": "Ballard",
+            "pos": 2,
+            "team": "SUN",
+            "quote": "on Ballard just because Sunland have",
+            "conf": 0.66,
+            "bench": false
           },
           {
             "pid": 305,
             "name": "Davis",
             "pos": 2,
             "team": "IPS",
-            "quote": "Curated from the video (screen + transcript).",
-            "conf": 1,
-            "bench": true
-          },
-          {
-            "pid": 557,
-            "name": "Tzolis",
-            "pos": 3,
-            "team": "ARS",
-            "quote": "Curated from the video (screen + transcript).",
-            "conf": 1,
+            "quote": "Newcastle and Leaf Davis doesn't have a",
+            "conf": 0.65,
             "bench": false
           },
           {
-            "pid": 123,
-            "name": "Hinshelwood",
+            "pid": 418,
+            "name": "Maguire",
+            "pos": 2,
+            "team": "MUN",
+            "quote": "particular, because Maguire and Ballard",
+            "conf": 0.35,
+            "bench": false
+          },
+          {
+            "pid": 10,
+            "name": "White",
+            "pos": 2,
+            "team": "ARS",
+            "quote": "White's going to be a Defcon monster,",
+            "conf": 0.19,
+            "bench": false
+          },
+          {
+            "pid": 212,
+            "name": "Hughes",
             "pos": 3,
-            "team": "BHA",
-            "quote": "Curated from the video (screen + transcript).",
-            "conf": 1,
+            "team": "CRY",
+            "quote": "let's dive into the team. And you will",
+            "conf": 0.85,
+            "bench": false
+          },
+          {
+            "pid": 155,
+            "name": "Enzo",
+            "pos": 3,
+            "team": "CHE",
+            "quote": "but in Burmo, Fernandez and Ziss have",
+            "conf": 0.82,
             "bench": false
           },
           {
@@ -2436,60 +2434,59 @@
             "name": "B.Fernandes",
             "pos": 3,
             "team": "MUN",
-            "quote": "Curated from the video (screen + transcript).",
-            "conf": 1,
+            "quote": "not going into gamewe one without Bruno",
+            "conf": 0.4,
             "bench": false
           },
           {
-            "pid": 427,
-            "name": "Mbeumo",
-            "pos": 3,
-            "team": "MUN",
-            "quote": "Curated from the video (screen + transcript).",
-            "conf": 1,
-            "bench": false
-          },
-          {
-            "pid": 488,
+            "pid": 565,
             "name": "Sangaré",
             "pos": 3,
-            "team": "NFO",
-            "quote": "Curated from the video (screen + transcript).",
-            "conf": 1,
+            "team": "BRE",
+            "quote": "play. Sangare's got Sunderland at home.",
+            "conf": 0.22,
             "bench": true
           },
           {
-            "pid": 165,
-            "name": "João Pedro",
-            "pos": 4,
-            "team": "CHE",
-            "quote": "Curated from the video (screen + transcript).",
-            "conf": 1,
-            "bench": false
-          },
-          {
-            "pid": 411,
-            "name": "Haaland",
-            "pos": 4,
+            "pid": 481,
+            "name": "Anderson",
+            "pos": 3,
             "team": "MCI",
-            "quote": "Curated from the video (screen + transcript).",
-            "conf": 1,
+            "quote": "If Elliot Anderson takes set pieces,",
+            "conf": 0.13,
             "bench": false
           },
           {
-            "pid": 346,
-            "name": "Calvert-Lewin",
+            "pid": 552,
+            "name": "Brobbey",
             "pos": 4,
-            "team": "LEE",
-            "quote": "Curated from the video (screen + transcript).",
-            "conf": 1,
+            "team": "SUN",
+            "quote": "over Brian Burmo, but he is in the team",
+            "conf": 0.22,
+            "bench": false
+          },
+          {
+            "pid": 379,
+            "name": "Isak",
+            "pos": 4,
+            "team": "LIV",
+            "quote": "right now. And as long as Isak's fit, I",
+            "conf": 0.14,
+            "bench": false
+          },
+          {
+            "pid": 106,
+            "name": "Thiago",
+            "pos": 4,
+            "team": "BRE",
+            "quote": "Thiago. And I suppose there's a small",
+            "conf": 0.14,
             "bench": false
           }
         ],
-        "captain": 411,
+        "captain": 329,
         "conf": 0.95,
-        "status": "edited",
-        "notes": "GW1 bench boost. Starting XI: Verbruggen; Calafiori, Ballard, Maguire; Tzolis, Hinshelwood, B.Fernandes, Mbeumo; João Pedro, Haaland, Calvert-Lewin."
+        "status": "auto"
       },
       "revealOptions": [
         {
@@ -2944,12 +2941,12 @@
         "publishedAt": "2026-08-11T08:02:33+00:00",
         "players": [
           {
-            "pid": 496,
-            "name": "Kinsky",
+            "pid": 250,
+            "name": "Leno",
             "pos": 1,
-            "team": "TOT",
-            "quote": "Curated from the video (screen + transcript).",
-            "conf": 1,
+            "team": "FUL",
+            "quote": "you get to Gameweek 6, and Leno's got",
+            "conf": 0.11,
             "bench": false
           },
           {
@@ -2957,35 +2954,44 @@
             "name": "Verbruggen",
             "pos": 1,
             "team": "BHA",
-            "quote": "Curated from the video (screen + transcript).",
-            "conf": 1,
+            "quote": "Kinski and Verbruggen, or Kinski and",
+            "conf": 0.07,
+            "bench": false
+          },
+          {
+            "pid": 359,
+            "name": "Gomez",
+            "pos": 2,
+            "team": "LIV",
+            "quote": "that team I just spoke about with Gomez",
+            "conf": 0.62,
             "bench": true
-          },
-          {
-            "pid": 418,
-            "name": "Maguire",
-            "pos": 2,
-            "team": "MUN",
-            "quote": "Curated from the video (screen + transcript).",
-            "conf": 1,
-            "bench": false
-          },
-          {
-            "pid": 11,
-            "name": "Mosquera",
-            "pos": 2,
-            "team": "ARS",
-            "quote": "Curated from the video (screen + transcript).",
-            "conf": 1,
-            "bench": false
           },
           {
             "pid": 8,
             "name": "Calafiori",
             "pos": 2,
             "team": "ARS",
-            "quote": "Curated from the video (screen + transcript).",
-            "conf": 1,
+            "quote": "I think. I'm just going to put Calafiori",
+            "conf": 0.34,
+            "bench": false
+          },
+          {
+            "pid": 418,
+            "name": "Maguire",
+            "pos": 2,
+            "team": "MUN",
+            "quote": "Tarkowski, and Maguire in defense and",
+            "conf": 0.25,
+            "bench": false
+          },
+          {
+            "pid": 4,
+            "name": "Gabriel",
+            "pos": 2,
+            "team": "ARS",
+            "quote": "João Pedro, Calvert-Lewin, Gabriel,",
+            "conf": 0.16,
             "bench": false
           },
           {
@@ -2993,53 +2999,8 @@
             "name": "Hume",
             "pos": 2,
             "team": "SUN",
-            "quote": "Curated from the video (screen + transcript).",
-            "conf": 1,
-            "bench": true
-          },
-          {
-            "pid": 304,
-            "name": "O'Shea",
-            "pos": 2,
-            "team": "IPS",
-            "quote": "Curated from the video (screen + transcript).",
-            "conf": 1,
-            "bench": true
-          },
-          {
-            "pid": 427,
-            "name": "Mbeumo",
-            "pos": 3,
-            "team": "MUN",
-            "quote": "Curated from the video (screen + transcript).",
-            "conf": 1,
-            "bench": false
-          },
-          {
-            "pid": 368,
-            "name": "Szoboszlai",
-            "pos": 3,
-            "team": "LIV",
-            "quote": "Curated from the video (screen + transcript).",
-            "conf": 1,
-            "bench": false
-          },
-          {
-            "pid": 124,
-            "name": "Groß",
-            "pos": 3,
-            "team": "BHA",
-            "quote": "Curated from the video (screen + transcript).",
-            "conf": 1,
-            "bench": false
-          },
-          {
-            "pid": 426,
-            "name": "B.Fernandes",
-            "pos": 3,
-            "team": "MUN",
-            "quote": "Curated from the video (screen + transcript).",
-            "conf": 1,
+            "quote": "sell Hume or O'Shea. Cuz by doing",
+            "conf": 0.16,
             "bench": false
           },
           {
@@ -3047,16 +3008,52 @@
             "name": "Gomez",
             "pos": 3,
             "team": "BHA",
-            "quote": "Curated from the video (screen + transcript).",
-            "conf": 1,
+            "quote": "that team I just spoke about with Gomez",
+            "conf": 0.64,
             "bench": true
+          },
+          {
+            "pid": 40,
+            "name": "Rogers",
+            "pos": 3,
+            "team": "CHE",
+            "quote": "En-Nesyri to Rogers. Then, I've got",
+            "conf": 0.32,
+            "bench": false
+          },
+          {
+            "pid": 525,
+            "name": "Fernandes",
+            "pos": 3,
+            "team": "TOT",
+            "quote": "So Botman, Fernandes, Emerson, Semenyo,",
+            "conf": 0.32,
+            "bench": true
+          },
+          {
+            "pid": 212,
+            "name": "Hughes",
+            "pos": 3,
+            "team": "CRY",
+            "quote": "next team video will be team selection",
+            "conf": 0.28,
+            "bench": false
+          },
+          {
+            "pid": 397,
+            "name": "Semenyo",
+            "pos": 3,
+            "team": "MCI",
+            "quote": "coming in and Semenyo as well looks",
+            "conf": 0.27,
+            "bench": false
           },
           {
             "pid": 411,
             "name": "Haaland",
             "pos": 4,
             "team": "MCI",
-            "quote": "Curated from the video (screen + transcript).",
+            "quote": "going up without Haaland",
             "conf": 1,
             "bench": false
           },
@@ -3065,8 +3062,8 @@
             "name": "João Pedro",
             "pos": 4,
             "team": "CHE",
-            "quote": "Curated from the video (screen + transcript).",
-            "conf": 1,
+            "quote": "3, where João Pedro's got Arsenal away,",
+            "conf": 0.52,
             "bench": false
           },
           {
@@ -3074,15 +3071,14 @@
             "name": "Calvert-Lewin",
             "pos": 4,
             "team": "LEE",
-            "quote": "Curated from the video (screen + transcript).",
-            "conf": 1,
+            "quote": "João Pedro, Calvert-Lewin, Gabriel,",
+            "conf": 0.37,
             "bench": false
           }
         ],
-        "captain": 411,
+        "captain": 525,
         "conf": 0.95,
-        "status": "edited",
-        "notes": "GW1 bench boost, 3-4-3. Bench: Verbruggen, Hume, O'Shea, Gomez."
+        "status": "auto"
       },
       "revealOptions": [
         {
@@ -3718,6 +3714,6 @@
       "notes": "GW1 bench boost, 3-4-3. Bench: Verbruggen, Hume, O'Shea, Gomez."
     }
   },
-  "updatedAt": "2026-08-18T13:10:29.888Z",
+  "updatedAt": "2026-08-18T14:08:02.973Z",
   "curatedAt": "2026-08-17T22:27:49.610Z"
 }
