@@ -1590,6 +1590,15 @@
           "thumb": "https://i.ytimg.com/vi/uE4ZryFoNTo/hqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=uE4ZryFoNTo",
           "transcript": null
+        },
+        {
+          "id": "2ZEDlb1s2Hc",
+          "title": "THE NEW FPL GW1 TEMPLATE 📝 CALAFIORI AND TZOLIS TAKE OVER! 📈 | Fantasy Premier League 2026/27",
+          "publishedAt": "2026-08-19T08:30:10+00:00",
+          "kind": "other",
+          "thumb": "https://i.ytimg.com/vi/2ZEDlb1s2Hc/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=2ZEDlb1s2Hc",
+          "transcript": null
         }
       ],
       "team": {
@@ -2969,6 +2978,15 @@
           "thumb": "https://i.ytimg.com/vi/0BW6flxDP-k/hqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=0BW6flxDP-k",
           "transcript": false
+        },
+        {
+          "id": "-G6t3PtT4S0",
+          "title": "FPL Gameweek 1 Preview 🔥 Bruno captain 👀 Sell Groß 🤔",
+          "publishedAt": "2026-08-19T08:08:57+00:00",
+          "kind": "other",
+          "thumb": "https://i.ytimg.com/vi/-G6t3PtT4S0/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=-G6t3PtT4S0",
+          "transcript": null
         }
       ],
       "team": {
@@ -3750,6 +3768,6 @@
       "notes": "GW1 bench boost, 3-4-3. Bench: Verbruggen, Hume, O'Shea, Gomez."
     }
   },
-  "updatedAt": "2026-08-19T07:49:05.275Z",
+  "updatedAt": "2026-08-19T08:46:04.889Z",
   "curatedAt": "2026-08-17T22:27:49.610Z"
 }
