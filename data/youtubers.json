@@ -859,6 +859,15 @@
           "thumb": "https://i.ytimg.com/vi/eCjf1jkOs4Y/hqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=eCjf1jkOs4Y",
           "transcript": false
+        },
+        {
+          "id": "UBDMs2J0wjM",
+          "title": "FINAL FPL TEAM from THREE Champions! 🏆",
+          "publishedAt": "2026-08-19T08:51:08+00:00",
+          "kind": "other",
+          "thumb": "https://i.ytimg.com/vi/UBDMs2J0wjM/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=UBDMs2J0wjM",
+          "transcript": null
         }
       ],
       "team": {
@@ -3768,6 +3777,6 @@
       "notes": "GW1 bench boost, 3-4-3. Bench: Verbruggen, Hume, O'Shea, Gomez."
     }
   },
-  "updatedAt": "2026-08-19T08:46:04.889Z",
+  "updatedAt": "2026-08-19T09:40:09.432Z",
   "curatedAt": "2026-08-17T22:27:49.610Z"
 }
