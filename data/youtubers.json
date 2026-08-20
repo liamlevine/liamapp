@@ -1682,6 +1682,15 @@
           "thumb": "https://i.ytimg.com/vi/QZhu4GM26KQ/hqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=QZhu4GM26KQ",
           "transcript": null
+        },
+        {
+          "id": "DieOrPr4nx0",
+          "title": "MY FINAL FPL GW1 TEAM QUESTIONS 📝 #ad #copilot #premierleague #microsoftazure #football",
+          "publishedAt": "2026-08-20T18:30:18+00:00",
+          "kind": "reveal",
+          "thumb": "https://i.ytimg.com/vi/DieOrPr4nx0/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=DieOrPr4nx0",
+          "transcript": false
         }
       ],
       "team": {
@@ -3898,6 +3907,6 @@
       "notes": "GW1 bench boost, 3-4-3. Bench: Verbruggen, Hume, O'Shea, Gomez."
     }
   },
-  "updatedAt": "2026-08-20T17:58:26.802Z",
+  "updatedAt": "2026-08-20T18:53:59.424Z",
   "curatedAt": "2026-08-17T22:27:49.610Z"
 }
