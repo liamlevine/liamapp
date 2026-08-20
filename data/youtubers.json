@@ -2496,6 +2496,15 @@
           "thumb": "https://i.ytimg.com/vi/qEHHVuU_rX0/hqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=qEHHVuU_rX0",
           "transcript": false
+        },
+        {
+          "id": "mcR6TdK76UU",
+          "title": "FPL GW1 DEADLINE LIVE STREAM 🚨 | ARSENAL TEAM NEWS? 😲 | Fantasy Premier League 2026/27",
+          "publishedAt": "2026-08-20T21:10:56+00:00",
+          "kind": "other",
+          "thumb": "https://i.ytimg.com/vi/mcR6TdK76UU/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=mcR6TdK76UU",
+          "transcript": null
         }
       ],
       "team": {
@@ -3907,6 +3916,6 @@
       "notes": "GW1 bench boost, 3-4-3. Bench: Verbruggen, Hume, O'Shea, Gomez."
     }
   },
-  "updatedAt": "2026-08-20T20:36:24.578Z",
+  "updatedAt": "2026-08-20T21:34:10.006Z",
   "curatedAt": "2026-08-17T22:27:49.610Z"
 }
