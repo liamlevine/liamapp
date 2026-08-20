@@ -886,6 +886,15 @@
           "thumb": "https://i.ytimg.com/vi/ggzwwCj1wWQ/hqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=ggzwwCj1wWQ",
           "transcript": null
+        },
+        {
+          "id": "WrySmn-ZCx4",
+          "title": "My FINAL FPL TEAM 🔥 FORMER #1 🌍 BEST FINISH 3K! 💥",
+          "publishedAt": "2026-08-20T15:42:28+00:00",
+          "kind": "reveal",
+          "thumb": "https://i.ytimg.com/vi/WrySmn-ZCx4/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=WrySmn-ZCx4",
+          "transcript": false
         }
       ],
       "team": {
@@ -1654,6 +1663,15 @@
           "kind": "other",
           "thumb": "https://i.ytimg.com/vi/YnKNKP3onhE/hqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=YnKNKP3onhE",
+          "transcript": null
+        },
+        {
+          "id": "THAmZkj0shk",
+          "title": "FPL GW1 LIVE DEADLINE STREAM 📸 | LOCKING IN FOR THE NEW SEASON! 🚀 | Fantasy Premier League 2025/26",
+          "publishedAt": "2026-08-20T15:22:36+00:00",
+          "kind": "other",
+          "thumb": "https://i.ytimg.com/vi/THAmZkj0shk/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=THAmZkj0shk",
           "transcript": null
         }
       ],
@@ -3853,6 +3871,6 @@
       "notes": "GW1 bench boost, 3-4-3. Bench: Verbruggen, Hume, O'Shea, Gomez."
     }
   },
-  "updatedAt": "2026-08-20T15:07:04.740Z",
+  "updatedAt": "2026-08-20T16:01:24.582Z",
   "curatedAt": "2026-08-17T22:27:49.610Z"
 }
