@@ -2406,6 +2406,15 @@
           "thumb": "https://i.ytimg.com/vi/8p6uJHq60UU/hqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=8p6uJHq60UU",
           "transcript": null
+        },
+        {
+          "id": "KeQ_0QeXTNQ",
+          "title": "MY FPL GW1 TEAM SELECTION 🚨 | BENCH BOOST ACTIVE! 🚀 | Fantasy Premier League Tips 2026/27",
+          "publishedAt": "2026-08-20T07:00:15+00:00",
+          "kind": "reveal",
+          "thumb": "https://i.ytimg.com/vi/KeQ_0QeXTNQ/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=KeQ_0QeXTNQ",
+          "transcript": false
         }
       ],
       "team": {
@@ -2565,13 +2574,6 @@
           "id": "rtFyuwdHWT4",
           "title": "MY *NEW* FPL DRAFT 🚨 | UPDATED STRATEGY! 👀 | Fantasy Premier League 2026/27",
           "publishedAt": "2026-08-10T07:00:36+00:00",
-          "players": 15,
-          "conf": 0.95
-        },
-        {
-          "id": "pZgnsoFHdyw",
-          "title": "GUEST FPL TEAM SELECTION 🚨 | NO BRUNO &amp; GW2 BENCH BOOST 😲 | Fantasy Premier League Tips 2026/27",
-          "publishedAt": "2026-08-06T07:00:32+00:00",
           "players": 15,
           "conf": 0.95
         }
@@ -3806,6 +3808,6 @@
       "notes": "GW1 bench boost, 3-4-3. Bench: Verbruggen, Hume, O'Shea, Gomez."
     }
   },
-  "updatedAt": "2026-08-20T05:58:55.352Z",
+  "updatedAt": "2026-08-20T07:01:08.001Z",
   "curatedAt": "2026-08-17T22:27:49.610Z"
 }
