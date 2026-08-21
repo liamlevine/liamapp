@@ -895,6 +895,15 @@
           "thumb": "https://i.ytimg.com/vi/WrySmn-ZCx4/hqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=WrySmn-ZCx4",
           "transcript": false
+        },
+        {
+          "id": "Xef37ImWz3M",
+          "title": "FINAL FPL YOUTUBERS Team | DATA FROM 25 TEAMS! 🚀",
+          "publishedAt": "2026-08-21T09:40:37+00:00",
+          "kind": "other",
+          "thumb": "https://i.ytimg.com/vi/Xef37ImWz3M/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=Xef37ImWz3M",
+          "transcript": null
         }
       ],
       "team": {
@@ -3952,6 +3961,6 @@
       "notes": "GW1 bench boost, 3-4-3. Bench: Verbruggen, Hume, O'Shea, Gomez."
     }
   },
-  "updatedAt": "2026-08-21T09:09:47.768Z",
+  "updatedAt": "2026-08-21T10:03:04.957Z",
   "curatedAt": "2026-08-17T22:27:49.610Z"
 }
