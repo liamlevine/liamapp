@@ -931,6 +931,15 @@
           "thumb": "https://i.ytimg.com/vi/qejqcbqYrjE/hqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=qejqcbqYrjE",
           "transcript": null
+        },
+        {
+          "id": "hHeGH5ze_UM",
+          "title": "FPL LIVE RANK! What You Need To Know 📊",
+          "publishedAt": "2026-08-22T17:40:46+00:00",
+          "kind": "other",
+          "thumb": "https://i.ytimg.com/vi/hHeGH5ze_UM/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=hHeGH5ze_UM",
+          "transcript": null
         }
       ],
       "team": {
@@ -3997,6 +4006,6 @@
       "notes": "GW1 bench boost, 3-4-3. Bench: Verbruggen, Hume, O'Shea, Gomez."
     }
   },
-  "updatedAt": "2026-08-22T17:26:34.007Z",
+  "updatedAt": "2026-08-22T17:50:21.602Z",
   "curatedAt": "2026-08-17T22:27:49.610Z"
 }
