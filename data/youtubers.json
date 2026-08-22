@@ -913,6 +913,15 @@
           "thumb": "https://i.ytimg.com/vi/PkG9Kwb0W6g/hqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=PkG9Kwb0W6g",
           "transcript": null
+        },
+        {
+          "id": "s9aNEy0mLBg",
+          "title": "FPL PRICE CHANGES - NOW LIVE! What You Need To Know 📊",
+          "publishedAt": "2026-08-22T08:13:04+00:00",
+          "kind": "other",
+          "thumb": "https://i.ytimg.com/vi/s9aNEy0mLBg/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=s9aNEy0mLBg",
+          "transcript": null
         }
       ],
       "team": {
@@ -3979,6 +3988,6 @@
       "notes": "GW1 bench boost, 3-4-3. Bench: Verbruggen, Hume, O'Shea, Gomez."
     }
   },
-  "updatedAt": "2026-08-22T07:37:12.774Z",
+  "updatedAt": "2026-08-22T08:38:18.749Z",
   "curatedAt": "2026-08-17T22:27:49.610Z"
 }
