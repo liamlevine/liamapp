@@ -940,6 +940,15 @@
           "thumb": "https://i.ytimg.com/vi/hHeGH5ze_UM/hqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=hHeGH5ze_UM",
           "transcript": null
+        },
+        {
+          "id": "cwvzCof1GLg",
+          "title": "My FPL GW2 TRANSFER PLANS ✅ MY GAMEWEEK 2 TEAM 🎯",
+          "publishedAt": "2026-08-23T18:48:17+00:00",
+          "kind": "reveal",
+          "thumb": "https://i.ytimg.com/vi/cwvzCof1GLg/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=cwvzCof1GLg",
+          "transcript": false
         }
       ],
       "team": {
@@ -4033,6 +4042,6 @@
       "notes": "GW1 bench boost, 3-4-3. Bench: Verbruggen, Hume, O'Shea, Gomez."
     }
   },
-  "updatedAt": "2026-08-23T18:38:28.620Z",
+  "updatedAt": "2026-08-23T19:26:56.599Z",
   "curatedAt": "2026-08-17T22:27:49.610Z"
 }
