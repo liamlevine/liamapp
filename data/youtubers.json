@@ -2604,6 +2604,15 @@
           "thumb": "https://i.ytimg.com/vi/EU4sZAAL7w8/hqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=EU4sZAAL7w8",
           "transcript": null
+        },
+        {
+          "id": "g3W4LLu7ZfU",
+          "title": "MY FPL GW2 EARLY THOUGHTS 💭 #FPL #GW2 #fantasypremierleague",
+          "publishedAt": "2026-08-24T07:00:18+00:00",
+          "kind": "other",
+          "thumb": "https://i.ytimg.com/vi/g3W4LLu7ZfU/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=g3W4LLu7ZfU",
+          "transcript": null
         }
       ],
       "team": {
@@ -2756,13 +2765,6 @@
           "id": "0l_u4Z2DNc0",
           "title": "MY UPDATED FPL GW1 DRAFT 🚨 | CALAFIORI ESSENTIAL? 😲 | Fantasy Premier League Tips 2026/27",
           "publishedAt": "2026-08-17T07:00:22+00:00",
-          "players": 15,
-          "conf": 0.95
-        },
-        {
-          "id": "rtFyuwdHWT4",
-          "title": "MY *NEW* FPL DRAFT 🚨 | UPDATED STRATEGY! 👀 | Fantasy Premier League 2026/27",
-          "publishedAt": "2026-08-10T07:00:36+00:00",
           "players": 15,
           "conf": 0.95
         }
@@ -4042,6 +4044,6 @@
       "notes": "GW1 bench boost, 3-4-3. Bench: Verbruggen, Hume, O'Shea, Gomez."
     }
   },
-  "updatedAt": "2026-08-24T06:05:16.436Z",
+  "updatedAt": "2026-08-24T07:40:05.426Z",
   "curatedAt": "2026-08-17T22:27:49.610Z"
 }
