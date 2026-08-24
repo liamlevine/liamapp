@@ -949,6 +949,15 @@
           "thumb": "https://i.ytimg.com/vi/cwvzCof1GLg/hqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=cwvzCof1GLg",
           "transcript": false
+        },
+        {
+          "id": "ZDw64GZk7dE",
+          "title": "FPL PLAYERS TO BUY | GW2 ✅",
+          "publishedAt": "2026-08-24T12:11:42+00:00",
+          "kind": "buy",
+          "thumb": "https://i.ytimg.com/vi/ZDw64GZk7dE/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=ZDw64GZk7dE",
+          "transcript": false
         }
       ],
       "team": {
@@ -4053,6 +4062,6 @@
       "notes": "GW1 bench boost, 3-4-3. Bench: Verbruggen, Hume, O'Shea, Gomez."
     }
   },
-  "updatedAt": "2026-08-24T11:35:31.690Z",
+  "updatedAt": "2026-08-24T13:03:14.605Z",
   "curatedAt": "2026-08-17T22:27:49.610Z"
 }
