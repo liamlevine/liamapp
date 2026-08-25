@@ -3292,29 +3292,29 @@
           "thumb": "https://i.ytimg.com/vi/xH1JYBwOhWg/hqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=xH1JYBwOhWg",
           "transcript": null
+        },
+        {
+          "id": "KkK-pgMVtoQ",
+          "title": "FPL GW2 TRANSFER TIPS ✅❌ Palmer IN? | Best Transfers",
+          "publishedAt": "2026-08-25T08:00:37+00:00",
+          "kind": "other",
+          "thumb": "https://i.ytimg.com/vi/KkK-pgMVtoQ/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=KkK-pgMVtoQ",
+          "transcript": null
         }
       ],
       "team": {
-        "videoId": "Sq7blnEdsIk",
-        "title": "MY LATEST FPL DRAFT 👀 588th LAST SEASON 💪 BENCH BOOST GAMEWEEK 1 🙌",
-        "publishedAt": "2026-08-11T08:02:33+00:00",
+        "videoId": "RMhLNwQETo0",
+        "title": "My Latest Draft 2026/27 #fpl #fantasypremierleague #fpltips",
+        "publishedAt": "2026-08-11T18:51:35+00:00",
         "players": [
-          {
-            "pid": 250,
-            "name": "Leno",
-            "pos": 1,
-            "team": "FUL",
-            "quote": "you get to Gameweek 6, and Leno's got",
-            "conf": 0.11,
-            "bench": false
-          },
           {
             "pid": 109,
             "name": "Verbruggen",
             "pos": 1,
             "team": "BHA",
-            "quote": "Kinski and Verbruggen, or Kinski and",
-            "conf": 0.07,
+            "quote": "Verbruggen, and I'm trying to go as",
+            "conf": 0.28,
             "bench": false
           },
           {
@@ -3322,35 +3322,17 @@
             "name": "Gomez",
             "pos": 2,
             "team": "LIV",
-            "quote": "that team I just spoke about with Gomez",
-            "conf": 0.62,
+            "quote": "The rest of my bench is Gómez for",
+            "conf": 0.99,
             "bench": true
           },
           {
-            "pid": 8,
-            "name": "Calafiori",
+            "pid": 304,
+            "name": "O'Shea",
             "pos": 2,
-            "team": "ARS",
-            "quote": "I think. I'm just going to put Calafiori",
-            "conf": 0.34,
-            "bench": false
-          },
-          {
-            "pid": 418,
-            "name": "Maguire",
-            "pos": 2,
-            "team": "MUN",
-            "quote": "Tarkowski, and Maguire in defense and",
-            "conf": 0.25,
-            "bench": false
-          },
-          {
-            "pid": 4,
-            "name": "Gabriel",
-            "pos": 2,
-            "team": "ARS",
-            "quote": "João Pedro, Calvert-Lewin, Gabriel,",
-            "conf": 0.16,
+            "team": "IPS",
+            "quote": "Brighton, O'Shea for Ipswich, and Hume",
+            "conf": 0.57,
             "bench": false
           },
           {
@@ -3358,8 +3340,26 @@
             "name": "Hume",
             "pos": 2,
             "team": "SUN",
-            "quote": "sell Hume or O'Shea. Cuz by doing",
-            "conf": 0.16,
+            "quote": "Brighton, O'Shea for Ipswich, and Hume",
+            "conf": 0.57,
+            "bench": false
+          },
+          {
+            "pid": 418,
+            "name": "Maguire",
+            "pos": 2,
+            "team": "MUN",
+            "quote": "continues to struggle. Harry Maguire is",
+            "conf": 0.34,
+            "bench": false
+          },
+          {
+            "pid": 10,
+            "name": "White",
+            "pos": 2,
+            "team": "ARS",
+            "quote": "interested in Ben White if Timber",
+            "conf": 0.33,
             "bench": false
           },
           {
@@ -3367,44 +3367,44 @@
             "name": "Gomez",
             "pos": 3,
             "team": "BHA",
-            "quote": "that team I just spoke about with Gomez",
-            "conf": 0.64,
+            "quote": "The rest of my bench is Gómez for",
+            "conf": 0.99,
             "bench": true
-          },
-          {
-            "pid": 40,
-            "name": "Rogers",
-            "pos": 3,
-            "team": "CHE",
-            "quote": "En-Nesyri to Rogers. Then, I've got",
-            "conf": 0.32,
-            "bench": false
           },
           {
             "pid": 525,
             "name": "Fernandes",
             "pos": 3,
             "team": "TOT",
-            "quote": "So Botman, Fernandes, Emerson, Semenyo,",
-            "conf": 0.32,
-            "bench": true
-          },
-          {
-            "pid": 212,
-            "name": "Hughes",
-            "pos": 3,
-            "team": "CRY",
-            "quote": "next team video will be team selection",
-            "conf": 0.28,
+            "quote": "Gameweeks, so Fernandes is basically and",
+            "conf": 0.75,
             "bench": false
           },
           {
-            "pid": 397,
-            "name": "Semenyo",
+            "pid": 124,
+            "name": "Groß",
             "pos": 3,
-            "team": "MCI",
-            "quote": "coming in and Semenyo as well looks",
-            "conf": 0.27,
+            "team": "BHA",
+            "quote": "most of the set pieces. Pascal Groß",
+            "conf": 0.44,
+            "bench": false
+          },
+          {
+            "pid": 368,
+            "name": "Szoboszlai",
+            "pos": 3,
+            "team": "LIV",
+            "quote": "with him, hence Enberba. Szoboszlai",
+            "conf": 0.41,
+            "bench": false
+          },
+          {
+            "pid": 580,
+            "name": "Charles",
+            "pos": 3,
+            "team": "FUL",
+            "quote": "Brighton, O'Shea for Ipswich, and Hume",
+            "conf": 0.23,
             "bench": false
           },
           {
@@ -3412,17 +3412,8 @@
             "name": "Haaland",
             "pos": 4,
             "team": "MCI",
-            "quote": "going up without Haaland",
+            "quote": "front, I'm still going with Erling",
             "conf": 1,
-            "bench": false
-          },
-          {
-            "pid": 165,
-            "name": "João Pedro",
-            "pos": 4,
-            "team": "CHE",
-            "quote": "3, where João Pedro's got Arsenal away,",
-            "conf": 0.52,
             "bench": false
           },
           {
@@ -3430,23 +3421,25 @@
             "name": "Calvert-Lewin",
             "pos": 4,
             "team": "LEE",
-            "quote": "João Pedro, Calvert-Lewin, Gabriel,",
-            "conf": 0.37,
+            "quote": "at home in Gameweek 4. Calvert-Lewin is",
+            "conf": 0.53,
+            "bench": false
+          },
+          {
+            "pid": 165,
+            "name": "João Pedro",
+            "pos": 4,
+            "team": "CHE",
+            "quote": "him for a couple of weeks. I like João",
+            "conf": 0.2,
             "bench": false
           }
         ],
-        "captain": 525,
-        "conf": 0.95,
+        "captain": 411,
+        "conf": 0.26,
         "status": "auto"
       },
       "revealOptions": [
-        {
-          "id": "Sq7blnEdsIk",
-          "title": "MY LATEST FPL DRAFT 👀 588th LAST SEASON 💪 BENCH BOOST GAMEWEEK 1 🙌",
-          "publishedAt": "2026-08-11T08:02:33+00:00",
-          "players": 15,
-          "conf": 0.95
-        },
         {
           "id": "RMhLNwQETo0",
           "title": "My Latest Draft 2026/27 #fpl #fantasypremierleague #fpltips",
@@ -4073,6 +4066,6 @@
       "notes": "GW1 bench boost, 3-4-3. Bench: Verbruggen, Hume, O'Shea, Gomez."
     }
   },
-  "updatedAt": "2026-08-25T07:04:04.717Z",
+  "updatedAt": "2026-08-25T08:10:00.502Z",
   "curatedAt": "2026-08-17T22:27:49.610Z"
 }
