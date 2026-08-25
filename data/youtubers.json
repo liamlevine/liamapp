@@ -961,107 +961,89 @@
         }
       ],
       "team": {
-        "videoId": "x9i_7HRia64",
-        "title": "BENCH BOOST ACTIVE! 🚨 My NEW FPL 2026/27 TEAM 🔥",
-        "publishedAt": "2026-08-11T11:12:26+00:00",
+        "videoId": "qTKabY4Zvyw",
+        "title": "FPL TEAM REVEAL 🚨 5x Top 1k FINISHES  🐐",
+        "publishedAt": "2026-08-12T09:43:39+00:00",
         "players": [
           {
-            "pid": 1,
-            "name": "Raya",
+            "pid": 301,
+            "name": "Palmer",
             "pos": 1,
-            "team": "ARS",
-            "quote": "be that Raya is the best keeper as well so imagine \nhaving to spend 6m and 4.5m on two keepers.",
-            "conf": 0.15,
+            "team": "IPS",
+            "quote": "looking at Palmer and Joao Pedro. But",
+            "conf": 0.08,
             "bench": false
           },
           {
-            "pid": 109,
-            "name": "Verbruggen",
-            "pos": 1,
-            "team": "BHA",
-            "quote": "Sunderland and Ipswich on 25%. Verbruggen just \nbehind there on 23%. So granted, the clean sheet",
-            "conf": 0.15,
-            "bench": false
-          },
-          {
-            "pid": 359,
-            "name": "Gomez",
+            "pid": 304,
+            "name": "O'Shea",
             "pos": 2,
-            "team": "LIV",
-            "quote": "and Cozier-Duberry but I don't think either are \nquite PL ready to be starting games, so Gomez for",
-            "conf": 1,
-            "bench": true
+            "team": "IPS",
+            "quote": "keeper, you've got O'Shea, you've got",
+            "conf": 0.24,
+            "bench": false
+          },
+          {
+            "pid": 473,
+            "name": "Aina",
+            "pos": 2,
+            "team": "NFO",
+            "quote": "and Olise Aina who have got good",
+            "conf": 0.23,
+            "bench": false
           },
           {
             "pid": 173,
             "name": "Thomas",
             "pos": 2,
             "team": "COV",
-            "quote": "better about it if he starts in their final \npre-season game. Amenda started over Thomas",
-            "conf": 0.34,
+            "quote": "Thomas, you've got former defenders that",
+            "conf": 0.15,
             "bench": false
           },
           {
-            "pid": 182,
-            "name": "Amenda",
+            "pid": 233,
+            "name": "Mykolenko",
             "pos": 2,
-            "team": "COV",
-            "quote": "better about it if he starts in their final \npre-season game. Amenda started over Thomas",
-            "conf": 0.34,
+            "team": "EVE",
+            "quote": "there's cheap defenders like Mykolenko",
+            "conf": 0.09,
             "bench": false
           },
           {
-            "pid": 118,
-            "name": "Igor",
+            "pid": 112,
+            "name": "Van Hecke",
             "pos": 2,
-            "team": "BHA",
-            "quote": "Haaland and Joao Pedro. Igor Jesus comes \nin to the team with Leeds home in GW1.",
-            "conf": 0.28,
+            "team": "TOT",
+            "quote": "You know, Van Hecke, Senesi has come in.",
+            "conf": 0.05,
             "bench": false
           },
           {
-            "pid": 391,
-            "name": "Gvardiol",
-            "pos": 2,
-            "team": "MCI",
-            "quote": "LCB. Man City did come out with that pillars \nof the team remark, Gvardiol, Foden, Haaland",
+            "pid": 368,
+            "name": "Szoboszlai",
+            "pos": 3,
+            "team": "LIV",
+            "quote": "even think Szoboszlai will have a good",
+            "conf": 0.38,
+            "bench": false
+          },
+          {
+            "pid": 290,
+            "name": "Slater",
+            "pos": 3,
+            "team": "HUL",
+            "quote": "Slater's there, you know, Hull are going",
             "conf": 0.24,
             "bench": false
           },
           {
-            "pid": 127,
-            "name": "Gomez",
+            "pid": 426,
+            "name": "B.Fernandes",
             "pos": 3,
-            "team": "BHA",
-            "quote": "and Cozier-Duberry but I don't think either are \nquite PL ready to be starting games, so Gomez for",
-            "conf": 1,
-            "bench": true
-          },
-          {
-            "pid": 237,
-            "name": "Ndiaye",
-            "pos": 3,
-            "team": "EVE",
-            "quote": "So those 2 have nudged me this way. I'm \nalso looking at swapping Ndiaye and Gomez",
-            "conf": 0.51,
-            "bench": false
-          },
-          {
-            "pid": 398,
-            "name": "Foden",
-            "pos": 3,
-            "team": "MCI",
-            "quote": "LCB. Man City did come out with that pillars \nof the team remark, Gvardiol, Foden, Haaland",
-            "conf": 0.31,
-            "bench": false
-          },
-          {
-            "pid": 397,
-            "name": "Semenyo",
-            "pos": 3,
-            "team": "MCI",
-            "quote": "games I'm finding him impossible to ignore now, \nbut really think Semenyo is a top pick. I wonder",
-            "conf": 0.29,
+            "team": "MUN",
+            "quote": "the likes of Bruno. You've also got a",
+            "conf": 0.22,
             "bench": false
           },
           {
@@ -1069,8 +1051,35 @@
             "name": "Hughes",
             "pos": 3,
             "team": "CRY",
-            "quote": "as early as GW2. I'll be doing everything I \ncan not to make a transfer in GW2, will have",
-            "conf": 0.22,
+            "quote": "even think Szoboszlai will have a good",
+            "conf": 0.21,
+            "bench": false
+          },
+          {
+            "pid": 580,
+            "name": "Charles",
+            "pos": 3,
+            "team": "FUL",
+            "quote": "keeper, you've got O'Shea, you've got",
+            "conf": 0.13,
+            "bench": false
+          },
+          {
+            "pid": 379,
+            "name": "Isak",
+            "pos": 4,
+            "team": "LIV",
+            "quote": "But I think because I've got Isak, I'm",
+            "conf": 1,
+            "bench": false
+          },
+          {
+            "pid": 346,
+            "name": "Calvert-Lewin",
+            "pos": 4,
+            "team": "LEE",
+            "quote": "fair enough, you've got Calvert-Lewin,",
+            "conf": 0.13,
             "bench": false
           },
           {
@@ -1078,41 +1087,16 @@
             "name": "Haaland",
             "pos": 4,
             "team": "MCI",
-            "quote": "Haaland and Joao Pedro. Igor Jesus comes \nin to the team with Leeds home in GW1.",
-            "conf": 0.6,
-            "bench": false
-          },
-          {
-            "pid": 165,
-            "name": "João Pedro",
-            "pos": 4,
-            "team": "CHE",
-            "quote": "Haaland and Joao Pedro. Igor Jesus comes \nin to the team with Leeds home in GW1.",
-            "conf": 0.28,
-            "bench": false
-          },
-          {
-            "pid": 491,
-            "name": "Igor Jesus",
-            "pos": 4,
-            "team": "NFO",
-            "quote": "Haaland and Joao Pedro. Igor Jesus comes \nin to the team with Leeds home in GW1.",
-            "conf": 0.28,
+            "quote": "that. Um up front, you've got Haaland,",
+            "conf": 0.13,
             "bench": false
           }
         ],
-        "captain": 359,
+        "captain": 426,
         "conf": 0.95,
         "status": "auto"
       },
       "revealOptions": [
-        {
-          "id": "x9i_7HRia64",
-          "title": "BENCH BOOST ACTIVE! 🚨 My NEW FPL 2026/27 TEAM 🔥",
-          "publishedAt": "2026-08-11T11:12:26+00:00",
-          "players": 15,
-          "conf": 0.95
-        },
         {
           "id": "qTKabY4Zvyw",
           "title": "FPL TEAM REVEAL 🚨 5x Top 1k FINISHES  🐐",
@@ -1789,6 +1773,15 @@
           "kind": "other",
           "thumb": "https://i.ytimg.com/vi/tw78HmQhcnE/hqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=tw78HmQhcnE",
+          "transcript": null
+        },
+        {
+          "id": "278PgRbMg28",
+          "title": "MY FPL GW2 FIRST TRANSFER PLANS! 💥 #fpl  #premierleague  #gw2    #fantasypremierleague #football",
+          "publishedAt": "2026-08-25T11:30:38+00:00",
+          "kind": "other",
+          "thumb": "https://i.ytimg.com/vi/278PgRbMg28/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=278PgRbMg28",
           "transcript": null
         }
       ],
@@ -4075,6 +4068,6 @@
       "notes": "GW1 bench boost, 3-4-3. Bench: Verbruggen, Hume, O'Shea, Gomez."
     }
   },
-  "updatedAt": "2026-08-25T11:01:54.479Z",
+  "updatedAt": "2026-08-25T11:56:24.981Z",
   "curatedAt": "2026-08-17T22:27:49.610Z"
 }
