@@ -958,6 +958,15 @@
           "thumb": "https://i.ytimg.com/vi/ZDw64GZk7dE/hqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=ZDw64GZk7dE",
           "transcript": false
+        },
+        {
+          "id": "bLQCpUKOUHM",
+          "title": "My FPL GW2 TEAM 🔥 Gameweek 2 ✅",
+          "publishedAt": "2026-08-26T10:26:35+00:00",
+          "kind": "reveal",
+          "thumb": "https://i.ytimg.com/vi/bLQCpUKOUHM/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=bLQCpUKOUHM",
+          "transcript": false
         }
       ],
       "team": {
@@ -3972,6 +3981,6 @@
       "notes": "GW1 bench boost, 3-4-3. Bench: Verbruggen, Hume, O'Shea, Gomez."
     }
   },
-  "updatedAt": "2026-08-26T10:07:42.584Z",
+  "updatedAt": "2026-08-26T11:03:49.869Z",
   "curatedAt": "2026-08-17T22:27:49.610Z"
 }
