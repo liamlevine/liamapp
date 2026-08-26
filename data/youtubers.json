@@ -961,89 +961,71 @@
         }
       ],
       "team": {
-        "videoId": "qTKabY4Zvyw",
-        "title": "FPL TEAM REVEAL 🚨 5x Top 1k FINISHES  🐐",
-        "publishedAt": "2026-08-12T09:43:39+00:00",
+        "videoId": "UvHJeS4MSaA",
+        "title": "10x Top 10k! NEW FPL TEAM REVEAL 🚨",
+        "publishedAt": "2026-08-14T10:06:31+00:00",
         "players": [
           {
             "pid": 301,
             "name": "Palmer",
             "pos": 1,
             "team": "IPS",
-            "quote": "looking at Palmer and Joao Pedro. But",
-            "conf": 0.08,
+            "quote": "If Palace If Palace and Palmer are on my",
+            "conf": 0.61,
             "bench": false
           },
           {
-            "pid": 304,
-            "name": "O'Shea",
-            "pos": 2,
-            "team": "IPS",
-            "quote": "keeper, you've got O'Shea, you've got",
-            "conf": 0.24,
-            "bench": false
-          },
-          {
-            "pid": 473,
-            "name": "Aina",
-            "pos": 2,
-            "team": "NFO",
-            "quote": "and Olise Aina who have got good",
-            "conf": 0.23,
-            "bench": false
-          },
-          {
-            "pid": 173,
-            "name": "Thomas",
-            "pos": 2,
-            "team": "COV",
-            "quote": "Thomas, you've got former defenders that",
-            "conf": 0.15,
-            "bench": false
-          },
-          {
-            "pid": 233,
-            "name": "Mykolenko",
-            "pos": 2,
-            "team": "EVE",
-            "quote": "there's cheap defenders like Mykolenko",
-            "conf": 0.09,
-            "bench": false
-          },
-          {
-            "pid": 112,
-            "name": "Van Hecke",
-            "pos": 2,
-            "team": "TOT",
-            "quote": "You know, Van Hecke, Senesi has come in.",
-            "conf": 0.05,
-            "bench": false
-          },
-          {
-            "pid": 368,
-            "name": "Szoboszlai",
-            "pos": 3,
+            "pid": 355,
+            "name": "Davies",
+            "pos": 1,
             "team": "LIV",
-            "quote": "even think Szoboszlai will have a good",
-            "conf": 0.38,
+            "quote": "Rodon, Davies, and Gomez. So, we'll come",
+            "conf": 0.25,
             "bench": false
           },
           {
-            "pid": 290,
-            "name": "Slater",
-            "pos": 3,
-            "team": "HUL",
-            "quote": "Slater's there, you know, Hull are going",
-            "conf": 0.24,
+            "pid": 10,
+            "name": "White",
+            "pos": 2,
+            "team": "ARS",
+            "quote": "Definitely, Morgan Gibbs-White is much",
+            "conf": 0.9,
             "bench": false
           },
           {
-            "pid": 426,
-            "name": "B.Fernandes",
-            "pos": 3,
+            "pid": 329,
+            "name": "Rodon",
+            "pos": 2,
+            "team": "LEE",
+            "quote": "Rodon, um, Hanley and Gibson and Bielsa.",
+            "conf": 0.65,
+            "bench": false
+          },
+          {
+            "pid": 390,
+            "name": "Rúben",
+            "pos": 2,
+            "team": "MCI",
+            "quote": ">> They expect Ruben to play at least the",
+            "conf": 0.58,
+            "bench": false
+          },
+          {
+            "pid": 359,
+            "name": "Gomez",
+            "pos": 2,
+            "team": "LIV",
+            "quote": "Uh Norgaard again, Gomez hopefully will",
+            "conf": 0.4,
+            "bench": false
+          },
+          {
+            "pid": 418,
+            "name": "Maguire",
+            "pos": 2,
             "team": "MUN",
-            "quote": "the likes of Bruno. You've also got a",
-            "conf": 0.22,
+            "quote": "Yeah Maguire the theory is that he'll be",
+            "conf": 0.34,
             "bench": false
           },
           {
@@ -1051,35 +1033,53 @@
             "name": "Hughes",
             "pos": 3,
             "team": "CRY",
-            "quote": "even think Szoboszlai will have a good",
-            "conf": 0.21,
-            "bench": false
-          },
-          {
-            "pid": 580,
-            "name": "Charles",
-            "pos": 3,
-            "team": "FUL",
-            "quote": "keeper, you've got O'Shea, you've got",
-            "conf": 0.13,
-            "bench": false
-          },
-          {
-            "pid": 379,
-            "name": "Isak",
-            "pos": 4,
-            "team": "LIV",
-            "quote": "But I think because I've got Isak, I'm",
+            "quote": "I will take my chances with Verts.",
             "conf": 1,
             "bench": false
           },
           {
-            "pid": 346,
-            "name": "Calvert-Lewin",
+            "pid": 154,
+            "name": "Palmer",
+            "pos": 3,
+            "team": "CHE",
+            "quote": "If Palace If Palace and Palmer are on my",
+            "conf": 0.61,
+            "bench": false
+          },
+          {
+            "pid": 127,
+            "name": "Gomez",
+            "pos": 3,
+            "team": "BHA",
+            "quote": "Uh Norgaard again, Gomez hopefully will",
+            "conf": 0.4,
+            "bench": false
+          },
+          {
+            "pid": 480,
+            "name": "Gibbs-White",
+            "pos": 3,
+            "team": "NFO",
+            "quote": "Definitely, Morgan Gibbs-White is much",
+            "conf": 0.36,
+            "bench": false
+          },
+          {
+            "pid": 427,
+            "name": "Mbeumo",
+            "pos": 3,
+            "team": "MUN",
+            "quote": "Mbeumo picked up an injury the other day",
+            "conf": 0.35,
+            "bench": false
+          },
+          {
+            "pid": 569,
+            "name": "Gonzalo",
             "pos": 4,
-            "team": "LEE",
-            "quote": "fair enough, you've got Calvert-Lewin,",
-            "conf": 0.13,
+            "team": "FUL",
+            "quote": "we've got Rogers, we've got Gonzalo",
+            "conf": 0.74,
             "bench": false
           },
           {
@@ -1087,23 +1087,25 @@
             "name": "Haaland",
             "pos": 4,
             "team": "MCI",
-            "quote": "that. Um up front, you've got Haaland,",
-            "conf": 0.13,
+            "quote": "Haaland draw has been floated and I do",
+            "conf": 0.5,
+            "bench": false
+          },
+          {
+            "pid": 249,
+            "name": "Barry",
+            "pos": 4,
+            "team": "EVE",
+            "quote": ">> Yeah, Barry, Barry, yeah.",
+            "conf": 0.36,
             "bench": false
           }
         ],
-        "captain": 426,
-        "conf": 0.95,
+        "captain": 212,
+        "conf": 0.68,
         "status": "auto"
       },
       "revealOptions": [
-        {
-          "id": "qTKabY4Zvyw",
-          "title": "FPL TEAM REVEAL 🚨 5x Top 1k FINISHES  🐐",
-          "publishedAt": "2026-08-12T09:43:39+00:00",
-          "players": 14,
-          "conf": 0.95
-        },
         {
           "id": "UvHJeS4MSaA",
           "title": "10x Top 10k! NEW FPL TEAM REVEAL 🚨",
@@ -3970,6 +3972,6 @@
       "notes": "GW1 bench boost, 3-4-3. Bench: Verbruggen, Hume, O'Shea, Gomez."
     }
   },
-  "updatedAt": "2026-08-26T09:20:29.825Z",
+  "updatedAt": "2026-08-26T10:07:42.584Z",
   "curatedAt": "2026-08-17T22:27:49.610Z"
 }
