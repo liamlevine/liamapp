@@ -1821,6 +1821,24 @@
           "thumb": "https://i.ytimg.com/vi/ffe10SB3JO8/hqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=ffe10SB3JO8",
           "transcript": null
+        },
+        {
+          "id": "WuRWelSXmkQ",
+          "title": "FPL GW2 MEMBERS LIVE STREAM! | Members Only Stream | Fantasy Premier League 2026/27",
+          "publishedAt": "2026-08-26T14:51:46+00:00",
+          "kind": "other",
+          "thumb": "https://i.ytimg.com/vi/WuRWelSXmkQ/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=WuRWelSXmkQ",
+          "transcript": null
+        },
+        {
+          "id": "j7Rq20_HBcI",
+          "title": "MY TOP 3 FPL GW2 PLAYERS TO BUY! 💰 #premierleague #fpl",
+          "publishedAt": "2026-08-26T15:00:38+00:00",
+          "kind": "buy",
+          "thumb": "https://i.ytimg.com/vi/j7Rq20_HBcI/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=j7Rq20_HBcI",
+          "transcript": false
         }
       ],
       "team": {
@@ -3990,6 +4008,6 @@
       "notes": "GW1 bench boost, 3-4-3. Bench: Verbruggen, Hume, O'Shea, Gomez."
     }
   },
-  "updatedAt": "2026-08-26T14:20:24.655Z",
+  "updatedAt": "2026-08-26T16:02:19.934Z",
   "curatedAt": "2026-08-17T22:27:49.610Z"
 }
