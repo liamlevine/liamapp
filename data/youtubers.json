@@ -976,162 +976,28 @@
           "thumb": "https://i.ytimg.com/vi/ikCbSljYD40/hqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=ikCbSljYD40",
           "transcript": null
+        },
+        {
+          "id": "6HudgSPsoBk",
+          "title": "FPL ODDS TRACKER! What You Need To Know 📊",
+          "publishedAt": "2026-08-28T09:12:36+00:00",
+          "kind": "other",
+          "thumb": "https://i.ytimg.com/vi/6HudgSPsoBk/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=6HudgSPsoBk",
+          "transcript": null
+        },
+        {
+          "id": "EONlehaPqTE",
+          "title": "FPL DEADLINE LIVE STREAM 🔴 FINAL GW2 TEAM 🔒",
+          "publishedAt": "2026-08-28T18:18:27+00:00",
+          "kind": "other",
+          "thumb": "https://i.ytimg.com/vi/EONlehaPqTE/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=EONlehaPqTE",
+          "transcript": null
         }
       ],
-      "team": {
-        "videoId": "UvHJeS4MSaA",
-        "title": "10x Top 10k! NEW FPL TEAM REVEAL 🚨",
-        "publishedAt": "2026-08-14T10:06:31+00:00",
-        "players": [
-          {
-            "pid": 301,
-            "name": "Palmer",
-            "pos": 1,
-            "team": "IPS",
-            "quote": "If Palace If Palace and Palmer are on my",
-            "conf": 0.61,
-            "bench": false
-          },
-          {
-            "pid": 355,
-            "name": "Davies",
-            "pos": 1,
-            "team": "LIV",
-            "quote": "Rodon, Davies, and Gomez. So, we'll come",
-            "conf": 0.25,
-            "bench": false
-          },
-          {
-            "pid": 10,
-            "name": "White",
-            "pos": 2,
-            "team": "ARS",
-            "quote": "Definitely, Morgan Gibbs-White is much",
-            "conf": 0.9,
-            "bench": false
-          },
-          {
-            "pid": 329,
-            "name": "Rodon",
-            "pos": 2,
-            "team": "LEE",
-            "quote": "Rodon, um, Hanley and Gibson and Bielsa.",
-            "conf": 0.65,
-            "bench": false
-          },
-          {
-            "pid": 390,
-            "name": "Rúben",
-            "pos": 2,
-            "team": "MCI",
-            "quote": ">> They expect Ruben to play at least the",
-            "conf": 0.58,
-            "bench": false
-          },
-          {
-            "pid": 359,
-            "name": "Gomez",
-            "pos": 2,
-            "team": "LIV",
-            "quote": "Uh Norgaard again, Gomez hopefully will",
-            "conf": 0.4,
-            "bench": false
-          },
-          {
-            "pid": 418,
-            "name": "Maguire",
-            "pos": 2,
-            "team": "MUN",
-            "quote": "Yeah Maguire the theory is that he'll be",
-            "conf": 0.34,
-            "bench": false
-          },
-          {
-            "pid": 212,
-            "name": "Hughes",
-            "pos": 3,
-            "team": "CRY",
-            "quote": "I will take my chances with Verts.",
-            "conf": 1,
-            "bench": false
-          },
-          {
-            "pid": 154,
-            "name": "Palmer",
-            "pos": 3,
-            "team": "CHE",
-            "quote": "If Palace If Palace and Palmer are on my",
-            "conf": 0.61,
-            "bench": false
-          },
-          {
-            "pid": 127,
-            "name": "Gomez",
-            "pos": 3,
-            "team": "BHA",
-            "quote": "Uh Norgaard again, Gomez hopefully will",
-            "conf": 0.4,
-            "bench": false
-          },
-          {
-            "pid": 480,
-            "name": "Gibbs-White",
-            "pos": 3,
-            "team": "NFO",
-            "quote": "Definitely, Morgan Gibbs-White is much",
-            "conf": 0.36,
-            "bench": false
-          },
-          {
-            "pid": 427,
-            "name": "Mbeumo",
-            "pos": 3,
-            "team": "MUN",
-            "quote": "Mbeumo picked up an injury the other day",
-            "conf": 0.35,
-            "bench": false
-          },
-          {
-            "pid": 569,
-            "name": "Gonzalo",
-            "pos": 4,
-            "team": "FUL",
-            "quote": "we've got Rogers, we've got Gonzalo",
-            "conf": 0.74,
-            "bench": false
-          },
-          {
-            "pid": 411,
-            "name": "Haaland",
-            "pos": 4,
-            "team": "MCI",
-            "quote": "Haaland draw has been floated and I do",
-            "conf": 0.5,
-            "bench": false
-          },
-          {
-            "pid": 249,
-            "name": "Barry",
-            "pos": 4,
-            "team": "EVE",
-            "quote": ">> Yeah, Barry, Barry, yeah.",
-            "conf": 0.36,
-            "bench": false
-          }
-        ],
-        "captain": 212,
-        "conf": 0.68,
-        "status": "auto"
-      },
-      "revealOptions": [
-        {
-          "id": "UvHJeS4MSaA",
-          "title": "10x Top 10k! NEW FPL TEAM REVEAL 🚨",
-          "publishedAt": "2026-08-14T10:06:31+00:00",
-          "players": 15,
-          "conf": 0.68
-        }
-      ]
+      "team": null,
+      "revealOptions": []
     },
     {
       "id": "UCcPWnCj5AKC19HaySZjb25g",
@@ -1874,6 +1740,24 @@
           "kind": "other",
           "thumb": "https://i.ytimg.com/vi/PQf9h21lnKk/hqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=PQf9h21lnKk",
+          "transcript": null
+        },
+        {
+          "id": "aj0tT33y-0k",
+          "title": "MY FPL GW2 TEAM SELECTION! 📱 290K GW1 Bench Boost! #fpl  #premierleague  #gw2  #football",
+          "publishedAt": "2026-08-28T07:30:15+00:00",
+          "kind": "reveal",
+          "thumb": "https://i.ytimg.com/vi/aj0tT33y-0k/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=aj0tT33y-0k",
+          "transcript": false
+        },
+        {
+          "id": "g3pReSaAR3U",
+          "title": "FPL GW2 COMPLETE GUIDE ⁉️ BENCHING RANKING WITH 40+ PLAYERS! 🤯 | Fantasy Premier League 2026/27",
+          "publishedAt": "2026-08-28T08:30:24+00:00",
+          "kind": "other",
+          "thumb": "https://i.ytimg.com/vi/g3pReSaAR3U/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=g3pReSaAR3U",
           "transcript": null
         }
       ],
@@ -2754,6 +2638,24 @@
           "thumb": "https://i.ytimg.com/vi/EL5rqpvWMDQ/hqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=EL5rqpvWMDQ",
           "transcript": false
+        },
+        {
+          "id": "pFdOULjEiHs",
+          "title": "BRUNO CAPTAIN? 🚀 | FPL GW2 FINAL TEAM DECISIONS 🚨| Fantasy Premier League Tips 2026/27",
+          "publishedAt": "2026-08-28T07:00:30+00:00",
+          "kind": "reveal",
+          "thumb": "https://i.ytimg.com/vi/pFdOULjEiHs/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=pFdOULjEiHs",
+          "transcript": false
+        },
+        {
+          "id": "EBE3llhutKk",
+          "title": "FPL GW2 DEADLINE LIVE STREAM 🚨 | MAN CITY TEAM NEWS? 😲 | Fantasy Premier League 2026/27",
+          "publishedAt": "2026-08-28T17:55:30+00:00",
+          "kind": "other",
+          "thumb": "https://i.ytimg.com/vi/EBE3llhutKk/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=EBE3llhutKk",
+          "transcript": null
         }
       ],
       "team": {
@@ -3467,6 +3369,24 @@
           "thumb": "https://i.ytimg.com/vi/3dr_1Jq3ZjI/hqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=3dr_1Jq3ZjI",
           "transcript": false
+        },
+        {
+          "id": "dvEjs3hOEKU",
+          "title": "FPL Gameweek 2 Final Thoughts 🔥 Ndiaye to Man City 😬 Benching Headaches 🤕",
+          "publishedAt": "2026-08-28T08:19:20+00:00",
+          "kind": "other",
+          "thumb": "https://i.ytimg.com/vi/dvEjs3hOEKU/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=dvEjs3hOEKU",
+          "transcript": null
+        },
+        {
+          "id": "3Jq9NteNLkU",
+          "title": "FPL Gameweek 2 Deadline Stream 🚀 Bruno (c) 😬 no Haaland 😭",
+          "publishedAt": "2026-08-28T17:38:50+00:00",
+          "kind": "other",
+          "thumb": "https://i.ytimg.com/vi/3Jq9NteNLkU/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=3Jq9NteNLkU",
+          "transcript": null
         }
       ],
       "team": null,
@@ -4089,6 +4009,6 @@
       "notes": "GW1 bench boost, 3-4-3. Bench: Verbruggen, Hume, O'Shea, Gomez."
     }
   },
-  "updatedAt": "2026-08-28T05:34:42.698Z",
+  "updatedAt": "2026-08-28T18:29:24.727Z",
   "curatedAt": "2026-08-17T22:27:49.610Z"
 }
