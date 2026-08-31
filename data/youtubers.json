@@ -1003,6 +1003,15 @@
           "thumb": "https://i.ytimg.com/vi/YNkyyQSN1mU/hqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=YNkyyQSN1mU",
           "transcript": null
+        },
+        {
+          "id": "uRCSSBTfxqo",
+          "title": "FPL PLAYERS TO BUY | GW3 ✅",
+          "publishedAt": "2026-08-31T11:04:36+00:00",
+          "kind": "buy",
+          "thumb": "https://i.ytimg.com/vi/uRCSSBTfxqo/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=uRCSSBTfxqo",
+          "transcript": false
         }
       ],
       "team": null,
@@ -1777,38 +1786,38 @@
           "thumb": "https://i.ytimg.com/vi/y5KIQiCD2KA/hqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=y5KIQiCD2KA",
           "transcript": null
+        },
+        {
+          "id": "YQKHKRTV_RM",
+          "title": "FPL GW3 WILDCARD DRAFTS! 📝  SELL OR KEEP BRUNO ON WILDCARD? 🔴🇵🇹 | Fantasy Premier League 2026/27",
+          "publishedAt": "2026-08-31T08:30:16+00:00",
+          "kind": "other",
+          "thumb": "https://i.ytimg.com/vi/YQKHKRTV_RM/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=YQKHKRTV_RM",
+          "transcript": null
         }
       ],
       "team": {
-        "videoId": "xbt3xvKqFuU",
-        "title": "MY NEW FPL DRAFT! 💥 HAALAND WORRIES? 🇳🇴 5X TOP 10K FINISHES 🏆 | Fantasy Premier League 2026/27",
-        "publishedAt": "2026-08-17T08:30:35+00:00",
+        "videoId": "WY0eorQCsD8",
+        "title": "MY NEW FPL GW1 DRAFT! 🚀 3 DAYS LEFT 😲 #fpl  #premierleague  #haaland",
+        "publishedAt": "2026-08-17T17:30:13+00:00",
         "players": [
           {
-            "pid": 496,
-            "name": "Kinsky",
+            "pid": 109,
+            "name": "Verbruggen",
             "pos": 1,
-            "team": "TOT",
-            "quote": "for Defcon, but it's difficult to want a double up \nand if I'm going with any of them, I think Kinsky",
-            "conf": 0.24,
-            "bench": false
-          },
-          {
-            "pid": 227,
-            "name": "Travers",
-            "pos": 1,
-            "team": "EVE",
-            "quote": "both play left back. Then they've got Ruben Diaz, \nMark Gay and Vardial to be their first choice",
-            "conf": 0.08,
-            "bench": false
-          },
-          {
-            "pid": 504,
-            "name": "Vuskovic",
-            "pos": 2,
             "team": "BHA",
-            "quote": "with Vuskovic and I've taken out Vardio. Now I \nthink there is a little bit of doubt in my mind",
-            "conf": 0.68,
+            "quote": "I've got Verbruggen on the bench as I do",
+            "conf": 0.53,
+            "bench": true
+          },
+          {
+            "pid": 172,
+            "name": "Wilson",
+            "pos": 1,
+            "team": "COV",
+            "quote": "Wilson and Joao Pedro. This doesn't",
+            "conf": 0.49,
             "bench": false
           },
           {
@@ -1816,80 +1825,80 @@
             "name": "Rodon",
             "pos": 2,
             "team": "LEE",
-            "quote": "I actually packed Joe Rodon, a player who is in my \ncurrent FPL draft. Quite a good pick. But this is",
-            "conf": 0.25,
-            "bench": false
-          },
-          {
-            "pid": 423,
-            "name": "Shaw",
-            "pos": 2,
-            "team": "MUN",
-            "quote": "the money over going for Luke Shaw because the \nattacking threat with Casemiro not in the team",
-            "conf": 0.25,
-            "bench": false
-          },
-          {
-            "pid": 502,
-            "name": "Robertson",
-            "pos": 2,
-            "team": "TOT",
-            "quote": "loads of goals and as a result defensively they \nwill have to be strong. Robertson at 4.5 at left",
-            "conf": 0.23,
-            "bench": false
-          },
-          {
-            "pid": 387,
-            "name": "O'Reilly",
-            "pos": 2,
-            "team": "MCI",
-            "quote": "about how nailed Vardial is in that Manchester \nCity team when they've got O'Reilly and Nate Nory",
-            "conf": 0.23,
-            "bench": false
-          },
-          {
-            "pid": 426,
-            "name": "B.Fernandes",
-            "pos": 3,
-            "team": "MUN",
-            "quote": "don't look at this team and think I'm sacrificing \nin order to have Bruno and Harland and that's the",
-            "conf": 1,
-            "bench": false
-          },
-          {
-            "pid": 263,
-            "name": "Kevin",
-            "pos": 3,
-            "team": "FUL",
-            "quote": "little bit. I would say I'm still 75% that I go \nwith the bench boost team. But if Kevin Sharder",
-            "conf": 0.74,
+            "quote": "the draft, so I've gone with Joe Rodon",
+            "conf": 0.72,
             "bench": true
+          },
+          {
+            "pid": 259,
+            "name": "Diop",
+            "pos": 2,
+            "team": "IPS",
+            "quote": "Rodon and Diop on the bench. I would",
+            "conf": 0.35,
+            "bench": true
+          },
+          {
+            "pid": 149,
+            "name": "Colwill",
+            "pos": 2,
+            "team": "CHE",
+            "quote": "Harry Maguire, Briscoe and Colwill are",
+            "conf": 0.32,
+            "bench": false
+          },
+          {
+            "pid": 418,
+            "name": "Maguire",
+            "pos": 2,
+            "team": "MUN",
+            "quote": "Harry Maguire, Briscoe and Colwill are",
+            "conf": 0.32,
+            "bench": false
           },
           {
             "pid": 212,
             "name": "Hughes",
             "pos": 3,
             "team": "CRY",
-            "quote": "back is an interesting pick. You've got Van Hec in \ndefense at 5 million who I think will be fantastic",
-            "conf": 0.37,
-            "bench": true
-          },
-          {
-            "pid": 155,
-            "name": "Enzo",
-            "pos": 3,
-            "team": "CHE",
-            "quote": "I'm least settled. Bruno Fernandez is in now. \nHe's missed backto-back penalties. He only got an",
-            "conf": 0.2,
+            "quote": "there. What will change before the final",
+            "conf": 1,
             "bench": false
           },
           {
-            "pid": 366,
-            "name": "Wirtz",
+            "pid": 525,
+            "name": "Fernandes",
+            "pos": 3,
+            "team": "TOT",
+            "quote": "Fernandes is in and I've got a cheap",
+            "conf": 0.73,
+            "bench": false
+          },
+          {
+            "pid": 260,
+            "name": "Wilson",
+            "pos": 3,
+            "team": "LEE",
+            "quote": "Wilson and Joao Pedro. This doesn't",
+            "conf": 0.62,
+            "bench": false
+          },
+          {
+            "pid": 368,
+            "name": "Szoboszlai",
             "pos": 3,
             "team": "LIV",
-            "quote": "as good a pick as he was means I just want to \ngo with Bruno. I've then got Florian Verz but",
-            "conf": 0.18,
+            "quote": "Szoboszlai to Florian Wirtz. Bruno",
+            "conf": 0.57,
+            "bench": false
+          },
+          {
+            "pid": 124,
+            "name": "Groß",
+            "pos": 3,
+            "team": "BHA",
+            "quote": "got Pascal Gross, Bryan and Benno. And I",
+            "conf": 0.45,
             "bench": false
           },
           {
@@ -1897,41 +1906,34 @@
             "name": "Haaland",
             "pos": 4,
             "team": "MCI",
-            "quote": "and I understand people wanting to drop Bruno or \ndrop Erling Harland, but I don't look at my team",
-            "conf": 0.38,
+            "quote": "Erling Haaland. I still think he's a",
+            "conf": 0.69,
             "bench": false
           },
           {
-            "pid": 552,
-            "name": "Brobbey",
-            "pos": 4,
-            "team": "SUN",
-            "quote": "to Arsenal, a team where not many of us have that \nmuch coverage in our team. Brian and Burmo didn't",
-            "conf": 0.26,
-            "bench": false
-          },
-          {
-            "pid": 106,
-            "name": "Thiago",
+            "pid": 108,
+            "name": "Wilson",
             "pos": 4,
             "team": "BRE",
-            "quote": "Thiago I think is pretty close and Semeno didn't \nlook particularly great in the Community Shield",
-            "conf": 0.25,
+            "quote": "Wilson and Joao Pedro. This doesn't",
+            "conf": 0.49,
+            "bench": false
+          },
+          {
+            "pid": 165,
+            "name": "João Pedro",
+            "pos": 4,
+            "team": "CHE",
+            "quote": "Wilson and Joao Pedro. This doesn't",
+            "conf": 0.49,
             "bench": false
           }
         ],
-        "captain": 426,
-        "conf": 0.95,
+        "captain": 212,
+        "conf": 0.3,
         "status": "auto"
       },
       "revealOptions": [
-        {
-          "id": "xbt3xvKqFuU",
-          "title": "MY NEW FPL DRAFT! 💥 HAALAND WORRIES? 🇳🇴 5X TOP 10K FINISHES 🏆 | Fantasy Premier League 2026/27",
-          "publishedAt": "2026-08-17T08:30:35+00:00",
-          "players": 15,
-          "conf": 0.95
-        },
         {
           "id": "WY0eorQCsD8",
           "title": "MY NEW FPL GW1 DRAFT! 🚀 3 DAYS LEFT 😲 #fpl  #premierleague  #haaland",
@@ -2683,162 +2685,19 @@
           "thumb": "https://i.ytimg.com/vi/w95GrCUuvz0/hqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=w95GrCUuvz0",
           "transcript": null
+        },
+        {
+          "id": "55xd_R0VXVM",
+          "title": "MY FPL GW3 EARLY THOUGHTS 💭 #FPL #GW3 #fantasypremierleague",
+          "publishedAt": "2026-08-31T07:20:20+00:00",
+          "kind": "other",
+          "thumb": "https://i.ytimg.com/vi/55xd_R0VXVM/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=55xd_R0VXVM",
+          "transcript": null
         }
       ],
-      "team": {
-        "videoId": "0l_u4Z2DNc0",
-        "title": "MY UPDATED FPL GW1 DRAFT 🚨 | CALAFIORI ESSENTIAL? 😲 | Fantasy Premier League Tips 2026/27",
-        "publishedAt": "2026-08-17T07:00:22+00:00",
-        "players": [
-          {
-            "pid": 496,
-            "name": "Kinsky",
-            "pos": 1,
-            "team": "TOT",
-            "quote": "bench of Kinsky, Sangare, Rodon, and",
-            "conf": 0.09,
-            "bench": true
-          },
-          {
-            "pid": 110,
-            "name": "Rushworth",
-            "pos": 1,
-            "team": "COV",
-            "quote": "two, you've got like Rushworth,",
-            "conf": 0.08,
-            "bench": false
-          },
-          {
-            "pid": 329,
-            "name": "Rodon",
-            "pos": 2,
-            "team": "LEE",
-            "quote": "in gameweek four, also Rodon's got",
-            "conf": 1,
-            "bench": true
-          },
-          {
-            "pid": 532,
-            "name": "Ballard",
-            "pos": 2,
-            "team": "SUN",
-            "quote": "on Ballard just because Sunland have",
-            "conf": 0.66,
-            "bench": false
-          },
-          {
-            "pid": 305,
-            "name": "Davis",
-            "pos": 2,
-            "team": "IPS",
-            "quote": "Newcastle and Leaf Davis doesn't have a",
-            "conf": 0.65,
-            "bench": false
-          },
-          {
-            "pid": 418,
-            "name": "Maguire",
-            "pos": 2,
-            "team": "MUN",
-            "quote": "particular, because Maguire and Ballard",
-            "conf": 0.35,
-            "bench": false
-          },
-          {
-            "pid": 10,
-            "name": "White",
-            "pos": 2,
-            "team": "ARS",
-            "quote": "White's going to be a Defcon monster,",
-            "conf": 0.19,
-            "bench": false
-          },
-          {
-            "pid": 212,
-            "name": "Hughes",
-            "pos": 3,
-            "team": "CRY",
-            "quote": "let's dive into the team. And you will",
-            "conf": 0.85,
-            "bench": false
-          },
-          {
-            "pid": 155,
-            "name": "Enzo",
-            "pos": 3,
-            "team": "CHE",
-            "quote": "but in Burmo, Fernandez and Ziss have",
-            "conf": 0.82,
-            "bench": false
-          },
-          {
-            "pid": 426,
-            "name": "B.Fernandes",
-            "pos": 3,
-            "team": "MUN",
-            "quote": "not going into gamewe one without Bruno",
-            "conf": 0.4,
-            "bench": false
-          },
-          {
-            "pid": 565,
-            "name": "Sangaré",
-            "pos": 3,
-            "team": "BRE",
-            "quote": "play. Sangare's got Sunderland at home.",
-            "conf": 0.22,
-            "bench": true
-          },
-          {
-            "pid": 481,
-            "name": "Anderson",
-            "pos": 3,
-            "team": "MCI",
-            "quote": "If Elliot Anderson takes set pieces,",
-            "conf": 0.13,
-            "bench": false
-          },
-          {
-            "pid": 552,
-            "name": "Brobbey",
-            "pos": 4,
-            "team": "SUN",
-            "quote": "over Brian Burmo, but he is in the team",
-            "conf": 0.22,
-            "bench": false
-          },
-          {
-            "pid": 379,
-            "name": "Isak",
-            "pos": 4,
-            "team": "LIV",
-            "quote": "right now. And as long as Isak's fit, I",
-            "conf": 0.14,
-            "bench": false
-          },
-          {
-            "pid": 106,
-            "name": "Thiago",
-            "pos": 4,
-            "team": "BRE",
-            "quote": "Thiago. And I suppose there's a small",
-            "conf": 0.14,
-            "bench": false
-          }
-        ],
-        "captain": 329,
-        "conf": 0.95,
-        "status": "auto"
-      },
-      "revealOptions": [
-        {
-          "id": "0l_u4Z2DNc0",
-          "title": "MY UPDATED FPL GW1 DRAFT 🚨 | CALAFIORI ESSENTIAL? 😲 | Fantasy Premier League Tips 2026/27",
-          "publishedAt": "2026-08-17T07:00:22+00:00",
-          "players": 15,
-          "conf": 0.95
-        }
-      ]
+      "team": null,
+      "revealOptions": []
     },
     {
       "id": "UCxeOc7eFxq37yW_Nc-69deA",
@@ -3423,6 +3282,15 @@
           "thumb": "https://i.ytimg.com/vi/V2pKORFqp7k/hqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=V2pKORFqp7k",
           "transcript": null
+        },
+        {
+          "id": "ui5wdVlv9ic",
+          "title": "My Wildcard Team for Gameweek 3 🔥 Haaland ✅ Fernandes ❌",
+          "publishedAt": "2026-08-31T08:32:55+00:00",
+          "kind": "reveal",
+          "thumb": "https://i.ytimg.com/vi/ui5wdVlv9ic/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=ui5wdVlv9ic",
+          "transcript": false
         }
       ],
       "team": null,
@@ -4045,6 +3913,6 @@
       "notes": "GW1 bench boost, 3-4-3. Bench: Verbruggen, Hume, O'Shea, Gomez."
     }
   },
-  "updatedAt": "2026-08-31T05:06:02.829Z",
+  "updatedAt": "2026-08-31T11:47:08.156Z",
   "curatedAt": "2026-08-17T22:27:49.610Z"
 }
