@@ -1795,153 +1795,28 @@
           "thumb": "https://i.ytimg.com/vi/YQKHKRTV_RM/hqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=YQKHKRTV_RM",
           "transcript": null
+        },
+        {
+          "id": "maOWMiAWEDk",
+          "title": "MY FPL GW3 TRANSFER PLANS! 🇫🇷 ♻️ MAN UNITED OUT? MAN CITY IN? 🫪 #fpl  #premierleague  #football",
+          "publishedAt": "2026-08-31T15:32:59+00:00",
+          "kind": "other",
+          "thumb": "https://i.ytimg.com/vi/maOWMiAWEDk/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=maOWMiAWEDk",
+          "transcript": null
+        },
+        {
+          "id": "-T7yIhdXXio",
+          "title": "CHERKI vs FODEN vs SEMENYO IN FPL GW3?  @FPLRaptor 🧊 💎 #fpl #premierleague #mancity",
+          "publishedAt": "2026-08-31T17:30:11+00:00",
+          "kind": "other",
+          "thumb": "https://i.ytimg.com/vi/-T7yIhdXXio/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=-T7yIhdXXio",
+          "transcript": null
         }
       ],
-      "team": {
-        "videoId": "WY0eorQCsD8",
-        "title": "MY NEW FPL GW1 DRAFT! 🚀 3 DAYS LEFT 😲 #fpl  #premierleague  #haaland",
-        "publishedAt": "2026-08-17T17:30:13+00:00",
-        "players": [
-          {
-            "pid": 109,
-            "name": "Verbruggen",
-            "pos": 1,
-            "team": "BHA",
-            "quote": "I've got Verbruggen on the bench as I do",
-            "conf": 0.53,
-            "bench": true
-          },
-          {
-            "pid": 172,
-            "name": "Wilson",
-            "pos": 1,
-            "team": "COV",
-            "quote": "Wilson and Joao Pedro. This doesn't",
-            "conf": 0.49,
-            "bench": false
-          },
-          {
-            "pid": 329,
-            "name": "Rodon",
-            "pos": 2,
-            "team": "LEE",
-            "quote": "the draft, so I've gone with Joe Rodon",
-            "conf": 0.72,
-            "bench": true
-          },
-          {
-            "pid": 259,
-            "name": "Diop",
-            "pos": 2,
-            "team": "IPS",
-            "quote": "Rodon and Diop on the bench. I would",
-            "conf": 0.35,
-            "bench": true
-          },
-          {
-            "pid": 149,
-            "name": "Colwill",
-            "pos": 2,
-            "team": "CHE",
-            "quote": "Harry Maguire, Briscoe and Colwill are",
-            "conf": 0.32,
-            "bench": false
-          },
-          {
-            "pid": 418,
-            "name": "Maguire",
-            "pos": 2,
-            "team": "MUN",
-            "quote": "Harry Maguire, Briscoe and Colwill are",
-            "conf": 0.32,
-            "bench": false
-          },
-          {
-            "pid": 212,
-            "name": "Hughes",
-            "pos": 3,
-            "team": "CRY",
-            "quote": "there. What will change before the final",
-            "conf": 1,
-            "bench": false
-          },
-          {
-            "pid": 525,
-            "name": "Fernandes",
-            "pos": 3,
-            "team": "TOT",
-            "quote": "Fernandes is in and I've got a cheap",
-            "conf": 0.73,
-            "bench": false
-          },
-          {
-            "pid": 260,
-            "name": "Wilson",
-            "pos": 3,
-            "team": "LEE",
-            "quote": "Wilson and Joao Pedro. This doesn't",
-            "conf": 0.62,
-            "bench": false
-          },
-          {
-            "pid": 368,
-            "name": "Szoboszlai",
-            "pos": 3,
-            "team": "LIV",
-            "quote": "Szoboszlai to Florian Wirtz. Bruno",
-            "conf": 0.57,
-            "bench": false
-          },
-          {
-            "pid": 124,
-            "name": "Groß",
-            "pos": 3,
-            "team": "BHA",
-            "quote": "got Pascal Gross, Bryan and Benno. And I",
-            "conf": 0.45,
-            "bench": false
-          },
-          {
-            "pid": 411,
-            "name": "Haaland",
-            "pos": 4,
-            "team": "MCI",
-            "quote": "Erling Haaland. I still think he's a",
-            "conf": 0.69,
-            "bench": false
-          },
-          {
-            "pid": 108,
-            "name": "Wilson",
-            "pos": 4,
-            "team": "BRE",
-            "quote": "Wilson and Joao Pedro. This doesn't",
-            "conf": 0.49,
-            "bench": false
-          },
-          {
-            "pid": 165,
-            "name": "João Pedro",
-            "pos": 4,
-            "team": "CHE",
-            "quote": "Wilson and Joao Pedro. This doesn't",
-            "conf": 0.49,
-            "bench": false
-          }
-        ],
-        "captain": 212,
-        "conf": 0.3,
-        "status": "auto"
-      },
-      "revealOptions": [
-        {
-          "id": "WY0eorQCsD8",
-          "title": "MY NEW FPL GW1 DRAFT! 🚀 3 DAYS LEFT 😲 #fpl  #premierleague  #haaland",
-          "publishedAt": "2026-08-17T17:30:13+00:00",
-          "players": 14,
-          "conf": 0.3
-        }
-      ]
+      "team": null,
+      "revealOptions": []
     },
     {
       "id": "UC54QLWzsMifTRjNQ02z5pCw",
@@ -3291,6 +3166,15 @@
           "thumb": "https://i.ytimg.com/vi/ui5wdVlv9ic/hqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=ui5wdVlv9ic",
           "transcript": false
+        },
+        {
+          "id": "-quyUhA09bM",
+          "title": "15 things we've learned ahead of Gameweek 3 #fpl #fantasypremierleague #fpltips",
+          "publishedAt": "2026-08-31T17:00:08+00:00",
+          "kind": "other",
+          "thumb": "https://i.ytimg.com/vi/-quyUhA09bM/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=-quyUhA09bM",
+          "transcript": null
         }
       ],
       "team": null,
@@ -3913,6 +3797,6 @@
       "notes": "GW1 bench boost, 3-4-3. Bench: Verbruggen, Hume, O'Shea, Gomez."
     }
   },
-  "updatedAt": "2026-08-31T11:47:08.156Z",
+  "updatedAt": "2026-08-31T19:03:25.766Z",
   "curatedAt": "2026-08-17T22:27:49.610Z"
 }
