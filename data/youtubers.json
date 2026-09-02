@@ -1876,6 +1876,15 @@
           "thumb": "https://i.ytimg.com/vi/tLG0pbAAN70/hqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=tLG0pbAAN70",
           "transcript": null
+        },
+        {
+          "id": "kajPKJQVXVo",
+          "title": "FPL GW3 MEMBERS LIVE STREAM! | Members Only Stream | Fantasy Premier League 2026/27",
+          "publishedAt": "2026-09-02T20:50:17+00:00",
+          "kind": "other",
+          "thumb": "https://i.ytimg.com/vi/kajPKJQVXVo/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=kajPKJQVXVo",
+          "transcript": null
         }
       ],
       "team": null,
@@ -3923,6 +3932,6 @@
       "notes": "GW1 bench boost, 3-4-3. Bench: Verbruggen, Hume, O'Shea, Gomez."
     }
   },
-  "updatedAt": "2026-09-02T18:54:41.600Z",
+  "updatedAt": "2026-09-02T21:41:57.524Z",
   "curatedAt": "2026-08-17T22:27:49.610Z"
 }
