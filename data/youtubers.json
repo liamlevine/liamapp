@@ -1012,6 +1012,15 @@
           "thumb": "https://i.ytimg.com/vi/uRCSSBTfxqo/hqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=uRCSSBTfxqo",
           "transcript": false
+        },
+        {
+          "id": "oDW1ijFGsuw",
+          "title": "WILDCARD ACTIVE! 🚨 MY FPL GW3 TEAM ✅",
+          "publishedAt": "2026-09-02T11:34:53+00:00",
+          "kind": "reveal",
+          "thumb": "https://i.ytimg.com/vi/oDW1ijFGsuw/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=oDW1ijFGsuw",
+          "transcript": false
         }
       ],
       "team": null,
@@ -1857,6 +1866,15 @@
           "kind": "other",
           "thumb": "https://i.ytimg.com/vi/J-0E_UpWKUI/hqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=J-0E_UpWKUI",
+          "transcript": null
+        },
+        {
+          "id": "tLG0pbAAN70",
+          "title": "TRIPLE CAPTAIN ACTIVE? 💯 HAALAND vs COV (H)! @FPLRaptor  #fpl  #premierleague   #haaland   #football",
+          "publishedAt": "2026-09-02T12:30:37+00:00",
+          "kind": "other",
+          "thumb": "https://i.ytimg.com/vi/tLG0pbAAN70/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=tLG0pbAAN70",
           "transcript": null
         }
       ],
@@ -3887,6 +3905,6 @@
       "notes": "GW1 bench boost, 3-4-3. Bench: Verbruggen, Hume, O'Shea, Gomez."
     }
   },
-  "updatedAt": "2026-09-02T11:04:04.148Z",
+  "updatedAt": "2026-09-02T15:14:30.598Z",
   "curatedAt": "2026-08-17T22:27:49.610Z"
 }
