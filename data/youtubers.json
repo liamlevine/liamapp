@@ -1030,6 +1030,15 @@
           "thumb": "https://i.ytimg.com/vi/SWms0Iejr5g/hqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=SWms0Iejr5g",
           "transcript": null
+        },
+        {
+          "id": "GjOExWyUWiA",
+          "title": "WILDCARD ACTIVE! 🚨 FPL DEADLINE LIVE STREAM 🔴 FINAL TEAM! 🔒",
+          "publishedAt": "2026-09-04T13:52:00+00:00",
+          "kind": "reveal",
+          "thumb": "https://i.ytimg.com/vi/GjOExWyUWiA/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=GjOExWyUWiA",
+          "transcript": false
         }
       ],
       "team": null,
@@ -3436,6 +3445,15 @@
           "thumb": "https://i.ytimg.com/vi/GGjD_6itXSw/hqdefault.jpg",
           "url": "https://www.youtube.com/watch?v=GGjD_6itXSw",
           "transcript": null
+        },
+        {
+          "id": "wHsIqraIgZA",
+          "title": "FPL Gameweek 3 Deadline Stream 🚀 Wildcard ACTIVE ✅",
+          "publishedAt": "2026-09-04T14:39:24+00:00",
+          "kind": "other",
+          "thumb": "https://i.ytimg.com/vi/wHsIqraIgZA/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=wHsIqraIgZA",
+          "transcript": null
         }
       ],
       "team": null,
@@ -4058,6 +4076,6 @@
       "notes": "GW1 bench boost, 3-4-3. Bench: Verbruggen, Hume, O'Shea, Gomez."
     }
   },
-  "updatedAt": "2026-09-04T11:47:12.460Z",
+  "updatedAt": "2026-09-04T16:10:36.795Z",
   "curatedAt": "2026-08-17T22:27:49.610Z"
 }
